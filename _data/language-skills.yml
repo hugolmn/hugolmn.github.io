@@ -4,16 +4,16 @@
   color:
 
 - name: English
-  percentage: 80
+  percentage: 90
   level : C1
   color:
 
 - name: Spanish
-  percentage: 60
+  percentage: 75
   level : B2
   color:
 
 - name: Chinese
-  percentage: 30
+  percentage: 40
   level : A1
   color:
