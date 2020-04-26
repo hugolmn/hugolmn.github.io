@@ -15,6 +15,14 @@ This personal website is still under construction, stay Tuned!
 {% include about/skills.html title="Languages" source=site.data.language-skills %}
 </div>
 
+# **Experiences**
+
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.html source=site.data.experiences-timeline %}
+</div>
+
+# **Education**
+
+<div class="row">
+{% include about/timeline.html source=site.data.education-timeline %}
 </div>
