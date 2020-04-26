@@ -1,5 +1,6 @@
 - entity: Airbus
   location: Toulouse, France
+  country: france
   role: Machine Learning Apprentice
   from: 2018
   to: present

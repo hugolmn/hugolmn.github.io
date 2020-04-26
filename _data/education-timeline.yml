@@ -1,10 +1,43 @@
 - entity: UTC
   location: Compiègne, France
+  country : france
   role: Engineering Student
-  from: 2015
+  from: Sep 2015
   to: present
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- entity: Rīgas Tehniskā universitāte
+  location: Riga, Latvia
+  country: latvia
+  role: Exchange Student
+  from: Aug 2017
+  to: Jan 2018
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- entity: UTC
+  location: Compiègne, France
+  country : france
+  role: Undergraduate Engineering Student
+  from: Sep 2015
+  to: present
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- entity: Lycée Léonard de Vinci
+  location: Amboise, France
+  country: france
+  role: Baccalauréat
+  from: Sep 2012
+  to: Jun 2015
+  description: Graduated with honors
