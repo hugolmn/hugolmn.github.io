@@ -1,4 +1,5 @@
-- location: UTC, Compiègne, France
+- entity: UTC
+  location: Compiègne, France
   role: Engineering Student
   from: 2015
   to: present
