@@ -1,10 +1,10 @@
 - entity: UTC
   location: Compiègne, France
   country : france
-  role: Graduate Engineering Student
-  from: Sep 2015
+  role: Computer Sciences and Engineering Degree
+  from: Feb 2018
   to: present
-  description: Major in IT. Apprenticeship
+  description: 5-year degree equivalent of a Master of Science in engineering. GPA 4.96/5. Expected to graduate in Aug 2022
 
 - entity: Rīgas Tehniskā universitāte
   location: Riga, Latvia
@@ -17,7 +17,7 @@
 - entity: UTC
   location: Compiègne, France
   country : france
-  role: Undergraduate Engineering Student
+  role: Core Programme in Engineering
   from: Sep 2015
   to: Jun 2017
   description: Two-year core curriculum.
