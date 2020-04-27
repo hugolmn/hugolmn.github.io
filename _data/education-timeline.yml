@@ -5,6 +5,9 @@
   from: Feb 2018
   to: present
   description: 5-year degree equivalent of a Master of Science in engineering. GPA 4.96/5. Expected to graduate in Aug 2022
+  courses:
+    - Algorithms and Data Structures
+    - Operations research and combinatorial optimization
 
 - entity: Rīgas Tehniskā universitāte
   location: Riga, Latvia
