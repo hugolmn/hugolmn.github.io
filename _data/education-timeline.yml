@@ -10,6 +10,13 @@
   courses:
     - Algorithms and Data Structures
     - Operations research and combinatorial optimization
+    - Object oriented programming and design
+    - Formal language theory
+    - Network architecture
+    - Design of relational and non-relational databases
+    - Problem solving and logic programming
+    - Probability, combinatorics and statistics for engineers
+    - Introduction to acoustics
 
 - entity: Rīgas Tehniskā universitāte
   location: Riga, Latvia
@@ -26,6 +33,11 @@
   from: Sep 2015
   to: Jun 2017
   description: Two-year core curriculum.
+  courses:
+    - Math : calculus, linear algebra
+    - Physics : Electricity, geometrical optics, structure and properties of materials
+    - Chemistry : mineral, organic, biologic
+    - Programming : algorithms, complexity, grammars, decidability, automatons, Turing machine
 
 - entity: Lycée Léonard de Vinci
   location: Amboise, France
