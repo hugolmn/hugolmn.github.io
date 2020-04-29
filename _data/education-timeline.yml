@@ -8,15 +8,18 @@
     - 5-year degree equivalent of a Master of Science in engineering. GPA 4.96/5.
     - Expected to graduate in Aug 2022
   courses:
-    - Algorithms and Data Structures
-    - Operations research and combinatorial optimization
+    - Algorithms and data structures
+    - Operations research, combinatorial optimization and simulation.
     - Object oriented programming and design
     - Formal language theory
     - Network architecture
     - Design of relational and non-relational databases
     - Problem solving and logic programming
-    - Probability, combinatorics and statistics for engineers
-    - Introduction to acoustics
+    - Software verification and validation
+    - "AI : knowledge modeling, representation and management"
+    - Probability, combinatorics and statistics for engineer
+    - "Project management : agile methods, planning, risk analysis, budgeting"
+    - Acoustics, sensors and signal processing
 
 - entity: Rīgas Tehniskā universitāte
   location: Riga, Latvia
@@ -25,6 +28,11 @@
   from: Aug 2017
   to: Jan 2018
   description: Exchange student program (Erasmus)
+  courses:
+    - "Artificial Intelligence : graph and tree search algorithms"
+    - Business analytics and project management
+    - Structure of computers and Assembly language
+    - Progamming in C++
 
 - entity: UTC
   location: Compiègne, France
@@ -35,7 +43,7 @@
   description: Two-year core curriculum.
   courses:
     - "Math : calculus, linear algebra"
-    - "Physics : Electricity, geometrical optics, structure and properties of materials"
+    - "Physics : electricity, geometrical optics, structure and properties of materials"
     - "Chemistry : mineral, organic, biologic"
     - "Programming : algorithms, complexity, grammars, decidability, automatons, Turing machine"
 
