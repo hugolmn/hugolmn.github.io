@@ -34,10 +34,10 @@
   to: Jun 2017
   description: Two-year core curriculum.
   courses:
-    - Math : calculus, linear algebra
-    - Physics : Electricity, geometrical optics, structure and properties of materials
-    - Chemistry : mineral, organic, biologic
-    - Programming : algorithms, complexity, grammars, decidability, automatons, Turing machine
+    - "Math : calculus, linear algebra"
+    - "Physics : Electricity, geometrical optics, structure and properties of materials"
+    - "Chemistry : mineral, organic, biologic"
+    - "Programming : algorithms, complexity, grammars, decidability, automatons, Turing machine"
 
 - entity: Lycée Léonard de Vinci
   location: Amboise, France
