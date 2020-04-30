@@ -1,11 +1,10 @@
-- entity: Airbus
+- entity: Airbus Commercial Aircraft
   location: Toulouse, France
   country: france
   role: Machine Learning Apprentice
-  from: 2018
+  from: Sep 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 3-year apprenticeship in the acoustics department.
+  courses:
+    - "Anomaly detection : speeding up audio recording cleaning in a cost-effective and automated way"
+    - "Data analysis : identifying parameters contributing to overall noise level variations"

@@ -1,25 +1,21 @@
 - entity: UTC
   location: Compiègne, France
   country : france
-  role: Computer Sciences and Engineering Degree
+  role: Computer Science and Engineering Degree
   from: Feb 2018
   to: present
   description:
     - 5-year degree equivalent of a Master of Science in engineering. GPA 4.96/5.
     - Expected to graduate in Aug 2022
   courses:
-    - Algorithms and data structures
-    - Operations research, combinatorial optimization and simulation.
-    - Object oriented programming and design
-    - Formal language theory
-    - Network architecture
-    - Design of relational and non-relational databases
-    - Problem solving and logic programming
-    - Software verification and validation
-    - "AI : knowledge modeling, representation and management"
-    - Probability, combinatorics and statistics for engineer
+    - "Computer science : algorithms, data structures, formal language theory"
+    - "Information technology : network architecture, database design"
+    - "Artificial intelligence : knowledge modeling"
+    - "Operations research : routing, ressource allocation, optimization, simulation."
+    - "Programming : object-oriented, logic, testing"
+    - "Statistics : probability, estimators, hypothesis testing, confidence"
     - "Project management : agile methods, planning, risk analysis, budgeting"
-    - Acoustics, sensors and signal processing
+    - "Physics : acoustics, sensors, signal processing"
 
 - entity: Rīgas Tehniskā universitāte
   location: Riga, Latvia
