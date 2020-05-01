@@ -1,4 +1,5 @@
 - entity: UTC
+  link: https://www.utc.fr/
   location: Compiègne, France
   country : france
   role: Computer Science and Engineering Degree
@@ -18,6 +19,7 @@
     - "Physics : acoustics, sensors, signal processing"
 
 - entity: Rīgas Tehniskā universitāte
+  link: https://www.rtu.lv/
   location: Riga, Latvia
   country: latvia
   role: Exchange Student
@@ -31,6 +33,7 @@
     - Progamming in C++
 
 - entity: UTC
+  link: https://www.utc.fr/
   location: Compiègne, France
   country : france
   role: Core Programme in Engineering
