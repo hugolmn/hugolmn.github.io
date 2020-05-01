@@ -10,7 +10,7 @@ remote_theme        : hugolmn/portfolYOU
 ### Plugins ###
 plugins:
   - jemoji
-
+  - jekyll-sitemap
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
@@ -50,19 +50,19 @@ author:
 
 
 ### Collections ###
-#collections:
-  #projects:
-  #  output: true
-  #  permalink: /projects/:name
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
 
 
 ### Defaults for collections ###
-#defaults:
-#  - scope:
-#      path: ""
-#      type: "projects"
-#    values:
-#      layout: "page"
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
 
 
 ### Exclude from processing ###

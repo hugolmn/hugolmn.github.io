@@ -3,32 +3,32 @@
   level : Advanced
   color:
 
+- name: SQL
+  percentage: 80
+  level : Intermediate
+  color:
+
 - name: C/C++
   percentage: 75
   level : Intermediate
   color:
 
-- name: SQL
-  percentage: 75
-  level : Intermediate
-  color:
-
 - name: HTML/CSS
-  percentage: 75
+  percentage: 70
   level : Intermediate
   color:
 
 - name: R
-  percentage: 55
+  percentage: 50
   level : Learning
   color:
 
 - name: Kotlin
-  percentage: 40
+  percentage: 45
   level : Learning
   color:
 
 - name: Julia
-  percentage: 40
+  percentage: 45
   level : Learning
   color:
