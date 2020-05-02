@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about-me/
 weight: 3
 ---
 
@@ -14,7 +14,7 @@ This personal website is still under construction, stay tuned!
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Languages" source=site.data.language-skills %}
 </div>
-**Other programming languages** : PHP, Lisp, Prolog, Assembly x64, 
+**Other programming languages** : PHP, Lisp, Prolog, Assembly x64
 
 ## Python libraries
 

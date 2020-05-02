@@ -17,7 +17,7 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - pages/blog.html
+  #- pages/blog.html
   - documentation/**
 
 
@@ -46,7 +46,7 @@ author:
 
 
 ### Posts ###
-#permalink: /blog/:title
+permalink: /blog/:title
 
 
 ### Collections ###
@@ -55,6 +55,8 @@ collections:
     output: true
     permalink: /projects/:name
 
+### Disqus ###
+#disqus: your-short-name-disqus 
 
 ### Defaults for collections ###
 defaults:
@@ -63,6 +65,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+   - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false
 
 
 ### Exclude from processing ###
