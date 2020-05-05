@@ -12,6 +12,7 @@ plugins:
   - jemoji
   - jekyll-sitemap
 
+
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
