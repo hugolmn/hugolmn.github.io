@@ -16,7 +16,7 @@ This personal website is still under construction, stay tuned!
 </div>
 **Other programming languages** : PHP, Prolog, Lisp, Assembly x64
 
-**Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j
+**Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j	
 
 ## Python libraries
 
