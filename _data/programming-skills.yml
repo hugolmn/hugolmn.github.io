@@ -23,12 +23,12 @@
   level : Learning
   color:
 
-- name: Kotlin
-  percentage: 45
-  level : Learning
-  color:
-
-- name: Julia
-  percentage: 45
-  level : Learning
-  color:
+# - name: Kotlin
+#   percentage: 45
+#   level : Learning
+#   color:
+#
+# - name: Julia
+#   percentage: 45
+#   level : Learning
+#   color:
