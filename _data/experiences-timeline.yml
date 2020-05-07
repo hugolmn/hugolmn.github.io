@@ -7,5 +7,5 @@
   to: present
   description: 3-year apprenticeship in the acoustics department.
   courses:
-    - "Anomaly detection : speeding up audio recording cleaning in a cost-effective and automated way"
+    - "Anomaly detection : speeding up audio recording cleaning in a cost-effective and automated way, using machine learning (DBSCAN, IsolationForest)"
     - "Data analysis : identifying parameters contributing to overall noise level variations"
