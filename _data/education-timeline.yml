@@ -7,14 +7,13 @@
   to: present
   description:
     - 5-year degree equivalent of a Master of Science in engineering. GPA 4.96/5.
-    - Expected to graduate in Aug 2022
+    - Expected to graduate in Aug 2022.
   courses:
-    - "Computer science : algorithms, data structures, formal language theory"
+    - "Computer science : algorithm & data structures, formal language theory"
     - "Information technology : network architecture, database design"
-    - "Artificial intelligence : knowledge modeling"
-    - "Operations research : routing, ressource allocation, optimization, simulation."
-    - "Programming : object-oriented, logic, testing"
-    - "Statistics : probability, estimators, hypothesis testing, confidence"
+    - "Operations research : routing (TSP, VRP), optimization (LP, CP, DP), Monte Carlo."
+    - "Programming : object-oriented (C++), logic (Prolog), testing"
+    - "Statistics : probability, estimators, hypothesis testing, confidence interval"
     - "Project management : agile methods, planning, risk analysis, budgeting"
     - "Physics : acoustics, sensors, signal processing"
 
@@ -43,8 +42,8 @@
   courses:
     - "Math : calculus, linear algebra"
     - "Physics : electricity, geometrical optics, structure and properties of materials"
-    - "Chemistry : mineral, organic, biologic"
     - "Programming : algorithms, complexity, grammars, decidability, automatons, Turing machine"
+    - "Chemistry : mineral, organic, biologic"
 
 - entity: Lycée Léonard de Vinci
   location: Amboise, France
