@@ -1,6 +1,6 @@
 ---
 name: Unsupervised Detection of Anomalous Sound
-tools: [Python, scikit-learn, librosa]
+tools: [Python, pandas, scikit-learn, librosa]
 image: /assets/images/detection-small.png
 description: Automatic detection of unwanted noise to clean audio recordings.
 type: local

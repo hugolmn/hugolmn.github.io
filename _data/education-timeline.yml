@@ -16,7 +16,7 @@
     - "Statistics : probability, estimators, hypothesis testing, confidence interval"
     - "Project management : agile methods, planning, risk analysis, budgeting"
     - "Physics : acoustics, sensors, signal processing"
-  tools: [Python, C/C++, R, SQL, Prolog, x64 Assembly]
+  tools: [Python, C/C++, R, SQL, Prolog, Lisp, x64 Assembly, git]
 
 - entity: Rīgas Tehniskā universitāte
   link: https://www.rtu.lv/
