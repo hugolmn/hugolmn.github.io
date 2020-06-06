@@ -12,10 +12,11 @@
     - "Computer science : algorithm & data structures, formal language theory"
     - "Information technology : network architecture, database design"
     - "Operations research : routing (TSP, VRP), optimization (LP, CP, DP), Monte Carlo."
-    - "Programming : object-oriented (C++), logic (Prolog), testing"
+    - "Programming : object-oriented, logic, software testing"
     - "Statistics : probability, estimators, hypothesis testing, confidence interval"
     - "Project management : agile methods, planning, risk analysis, budgeting"
     - "Physics : acoustics, sensors, signal processing"
+  tools: [Python, C/C++, R, SQL, Prolog, x64 Assembly]
 
 - entity: Rīgas Tehniskā universitāte
   link: https://www.rtu.lv/
@@ -29,7 +30,8 @@
     - "Artificial Intelligence : graph and tree search algorithms"
     - Business analytics and project management
     - Structure of computers and Assembly language
-    - Progamming in C++
+    - Object-oriented programming
+  tools: [C++, x64 Assembly]
 
 - entity: UTC
   link: https://www.utc.fr/
@@ -44,6 +46,7 @@
     - "Physics : electricity, geometrical optics, structure and properties of materials"
     - "Programming : algorithms, complexity, grammars, decidability, automatons, Turing machine"
     - "Chemistry : mineral, organic, biologic"
+  tools: [SQL, PHP, HTML/CSS]
 
 - entity: Lycée Léonard de Vinci
   location: Amboise, France

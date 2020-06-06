@@ -10,4 +10,4 @@
     - "Anomaly detection : speeding up audio recordings cleaning in a cost-effective and automated way, using machine learning techniques (DBSCAN, IsolationForest) to detect anomalous noise"
     - "Data analysis : indentification of parameters contributing to specific aircraft noise variability, highliting of production quality drifts"
     - "Predictive maintenance : bibliographic search, litterature review and experimentation"
-  tools: [Python, scikit-learn, librosa]
+  tools: [Python, scikit-learn, keras, librosa]
