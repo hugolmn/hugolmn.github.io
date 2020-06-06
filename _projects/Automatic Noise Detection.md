@@ -1,11 +1,18 @@
 ---
-name: Automatic Noise Detection
+name: Unsupervised Detection of Anomalous Sound
 tools: [Python, scikit-learn, librosa]
 image: /assets/images/detection-small.png
 description: Automatic detection of unwanted noise to clean audio recordings.
 ---
 
-## Automatic Noise Detection
+# { page.name }
+
+## Pipeline
+
+1. Extraction of audio features
+2. Enrichment with statistical measurements
+3. Unsupervised anomaly detection using a ML algorithm
+4. Smoothing and thresholding
 
 {% include elements/figure.html image="/assets/images/detection.png" caption="Input spectrogram - Anomaly score - Ouput spectrogram (dark stripes for rejected parts)" %}
 
