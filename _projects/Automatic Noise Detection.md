@@ -7,7 +7,7 @@ description: Automatic detection of unwanted noise to clean audio recordings.
 
 ## Automatic Noise Detection
 
-{% include elements/figure.html image={{ '/assets/images/detection.png' | prepend: site.baseurl }} caption="Input spectrogram - Anomaly score - Ouput spectrogram (dark stripes for rejected parts)" %}
+{% include elements/figure.html image="'/assets/images/detection.png' | prepend: site.baseurl" caption="Input spectrogram - Anomaly score - Ouput spectrogram (dark stripes for rejected parts)"" %}
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/hugolmn" text="Learn More" %}
