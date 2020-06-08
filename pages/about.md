@@ -15,7 +15,9 @@ This personal website is still under construction, stay tuned!
 {% include about/skills.html title="Languages" source=site.data.language-skills %}
 </div>
 **Other programming languages** : Prolog, LaTeX, Jekyll, Lisp, PHP, Assembly x64
+
 **Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j
+
 **DevOps** : Linux, Git, Docker
 
 ## Python libraries

@@ -30,10 +30,10 @@
 
 - entity: Coursera
   link: https://www.coursera.org/
-  location: Compiègne, France
+  #location: Compiègne, France
   role: Online courses
-  from: Sep 2015
-  to: Jun 2017
+  from: 2017
+  to: present
   description: Self-Directed Learning
   courses:
     - "Stanford (Andrew Ng) : Machine Learning"
