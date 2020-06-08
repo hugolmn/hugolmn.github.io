@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-<p class="text-center"> {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine.pdf" text="EN Resume" %} </p>
+<p class="text-center"> {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> EN Resume' %} </p>
 
 <div class="row">
 {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
