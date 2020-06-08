@@ -5,11 +5,15 @@ permalink: /about-me/
 weight: 3
 ---
 
+<p class="text-center">
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi I am **{{ site.author.name }}** :wave:
 
-<p class="text-center"> {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> EN Resume' %}{% include elements/button.html link="/assets/resume/CV_FR_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> FR Resume' %} </p>
+ {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> EN Resume' %}
+ {% include elements/button.html link="/assets/resume/CV_FR_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> FR Resume' %}
+
+ </p>
 
 <div class="row">
 {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
