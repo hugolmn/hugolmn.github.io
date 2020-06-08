@@ -23,9 +23,9 @@
   to: Jan 2018
   description: Exchange student program (Erasmus)
   courses:
-    - "Artificial Intelligence: graphs and tree search algorithms"
-    - "Programming: object-oriented & assembly"
-    - "Business Analytics & Project Management— agile methods, planning, risk analysis, budgeting"
+    - "Artificial Intelligence : graphs and tree search algorithms"
+    - "Programming : object-oriented & assembly"
+    - "Business Analytics & Project Management : agile methods, planning, risk analysis, budgeting"
   tools: [C++, x64 Assembly]
 
 - entity: Coursera
@@ -39,7 +39,7 @@
     - "Stanford (Andrew Ng) : Machine Learning"
     - "deeplearning.ai : Neural Networks & Deep Learning, Improving Deep Neural Networks: hyperparameter tuning, regularization & optimization"
     - "University of Michigan : Python Data Structures, Applied Plotting, Charting & Data Representation in Python, Applied Machine Learning in Python"
-  #tools: [SQL, PHP, HTML/CSS]
+  tools: [Python, Pandas, scikit-learn, matplotlib, seaborn]
 
 - entity: Lycée Léonard de Vinci
   location: Amboise, France

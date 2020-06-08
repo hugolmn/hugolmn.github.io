@@ -11,6 +11,10 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 This personal website is still under construction, stay tuned!
 
 <div class="row">
+{% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
+</div>
+
+<div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Languages" source=site.data.language-skills %}
 </div>
@@ -26,11 +30,6 @@ This personal website is still under construction, stay tuned!
 - Data visualization : matplotlib, seaborn
 - Machine learning : scikit-learn, keras
 - Scientific computing : scipy, librosa
-
-
-<div class="row">
-{% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
-</div>
 
 <div class="row">
 {% include about/timeline.html title="Education" source=site.data.education-timeline %}
