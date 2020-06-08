@@ -7,7 +7,19 @@
   to: present
   description: 3-year apprenticeship in the acoustics department.
   courses:
-    - "Anomaly detection : speeding up audio recordings cleaning in a cost-effective and automated way, using machine learning techniques (DBSCAN, IsolationForest) to detect anomalous noise"
+    - "Anomaly detection : automatic cleaning of audio recordings in a cost-effective and automated way, using machine learning (DBSCAN, Isola-tionForest) to detect anomalous noise"
     - "Data analysis : identification of parameters contributing to specific aircraft noise variability, highlighting of production quality drifts"
-    - "Predictive maintenance : bibliographic search, litterature review and experimentation"
+    - "Predictive maintenance : literature review and experimentation using autoencoders to anticipate component failure based on vibrations"
   tools: [Python, pandas, scikit-learn, keras, librosa, git]
+
+- entity: SNCF
+  link : https://www.airbus.com/
+  location: Toulouse, France
+  country: France
+  role: Experimental Work
+  from: Sep 2018
+  to: present
+  description: 6-month project supervised by SNCF researchers
+  courses:
+    - "Dynamic Programming : optimization of the economic performance of a train. Search of the optimal way to operate the train while reducingenergy consumption with a delay constraint."
+  tools: [Python, pandas, git]

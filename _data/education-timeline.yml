@@ -1,56 +1,48 @@
 - entity: UTC
   link: https://www.utc.fr/
   location: Compiègne, France
-  country : france
   role: Computer Science and Engineering Degree
-  from: Feb 2018
+  from: Sep 2015
   to: present
   description:
     - 5-year degree equivalent of a Master of Science in engineering. GPA 4.96/5.
-    - Expected to graduate in Aug 2022.
+    - Expected to graduate in Aug 2021.
   courses:
-    - "Computer science : algorithm & data structures, formal language theory"
-    - "Information technology : network architecture, database design"
-    - "Operations research : routing (TSP, VRP), optimization (LP, CP, DP), Monte Carlo."
-    - "Programming : object-oriented, logic, software testing"
-    - "Statistics : probability, estimators, hypothesis testing, confidence interval"
-    - "Project management : agile methods, planning, risk analysis, budgeting"
-    - "Physics : acoustics, sensors, signal processing"
+    - "Computer science : algorithms & data structures, formal language theory, complexity, object-oriented & logic programming"
+    - "Information technology : network architecture, database design and query"
+    - "Operations research :  routing (TSP, VRP), optimization (LP, CP, DP), logistics, Monte Carlo"
+    - "Mathematics & Statistics : calculus, linear algebra, probability, estimators, hypothesis testing, confidence interval"
+    - "Physics : acoustics, sensors, signal processing, structure and properties of materials, chemistry (organic, mineral), geometrical optics"
   tools: [Python, C/C++, R, SQL, Prolog, Lisp, x64 Assembly, git]
 
 - entity: Rīgas Tehniskā universitāte
-  link: https://www.rtu.lv/
+  link: https://www.rtu.lv/en
   location: Riga, Latvia
-  country: latvia
   role: Exchange Student
   from: Aug 2017
   to: Jan 2018
   description: Exchange student program (Erasmus)
   courses:
-    - "Artificial Intelligence : graph and tree search algorithms"
-    - Business analytics and project management
-    - Structure of computers and Assembly language
-    - Object-oriented programming
+    - "Artificial Intelligence: graphs and tree search algorithms"
+    - "Programming: object-oriented & assembly"
+    - "Business Analytics & Project Management— agile methods, planning, risk analysis, budgeting"
   tools: [C++, x64 Assembly]
 
-- entity: UTC
-  link: https://www.utc.fr/
+- entity: Coursera
+  link: https://www.coursera.org/
   location: Compiègne, France
-  country : france
-  role: Core Programme in Engineering
+  role: Online courses
   from: Sep 2015
   to: Jun 2017
-  description: Two-year core curriculum.
+  description: Self-Directed Learning
   courses:
-    - "Math : calculus, linear algebra"
-    - "Physics : electricity, geometrical optics, structure and properties of materials"
-    - "Programming : algorithms, complexity, grammars, decidability, automatons, Turing machine"
-    - "Chemistry : mineral, organic, biologic"
-  tools: [SQL, PHP, HTML/CSS]
+    - "Stanford (Andrew Ng) : Machine Learning"
+    - "deeplearning.ai : Neural Networks & Deep Learning, Improving Deep Neural Networks: hyperparameter tuning, regularization & optimization"
+    - "University of Michigan : Python Data Structures, Applied Plotting, Charting & Data Representation in Python, Applied Machine Learning in Python"
+  #tools: [SQL, PHP, HTML/CSS]
 
 - entity: Lycée Léonard de Vinci
   location: Amboise, France
-  country: france
   role: Baccalauréat
   from: Sep 2012
   to: Jun 2015

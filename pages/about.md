@@ -14,16 +14,16 @@ This personal website is still under construction, stay tuned!
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Languages" source=site.data.language-skills %}
 </div>
-**Other programming languages** : PHP, Prolog, Lisp, Assembly x64
-
-**Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j	
+**Other programming languages** : Prolog, LaTeX, Jekyll, Lisp, PHP, Assembly x64
+**Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j
+**DevOps** : Linux, Git, Docker
 
 ## Python libraries
 
-- Data processing : numpy, pandas, dask
+- Data analysis & processing : numpy, pandas, dask
 - Data visualization : matplotlib, seaborn
 - Machine learning : scikit-learn, keras
-- Signal processing : librosa
+- Scientific computing : scipy, librosa
 
 
 <div class="row">
