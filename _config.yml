@@ -6,7 +6,7 @@ repository          : hugolmn/hugolmn.github.io     # Change to <your-username>/
 remote_theme        : hugolmn/portfolYOU
 links               :
   - "/about-me : About Me"
-#  - "/projects : Projects"
+  - "/projects : Projects"
 
 ### Plugins ###
 plugins:
