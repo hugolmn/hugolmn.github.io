@@ -7,7 +7,7 @@
   to: present
   description: 3-year apprenticeship in the acoustics department.
   courses:
-    - "Anomaly detection : automatic cleaning of audio recordings in a cost-effective and automated way, using machine learning (DBSCAN, Isola-tionForest) to detect anomalous noise"
+    - "Anomaly detection : automatic cleaning of audio recordings in a cost-effective and automated way, using machine learning (DBSCAN, IsolationForest) to detect anomalous noise"
     - "Data analysis : identification of parameters contributing to specific aircraft noise variability, highlighting of production quality drifts"
     - "Predictive maintenance : literature review and experimentation using autoencoders to anticipate component failure based on vibrations"
   tools: [Python, pandas, scikit-learn, keras, librosa, git]
