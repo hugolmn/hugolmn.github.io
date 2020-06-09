@@ -6,7 +6,9 @@ weight: 3
 ---
 
 <div id="container">
+<p class="text-center">
 <h1><strong>About Me</strong></h1>
+</p>
 
 <p class="text-center">
   Hi I am <strong>{{ site.author.name }}</strong> :wave:
