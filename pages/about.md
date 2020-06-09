@@ -35,7 +35,7 @@ weight: 3
 
 ## Python libraries
 
-- Data analysis & processing : numpy, pandas, dask
+- Data analysis & processing : pandas, numpy, dask
 - Data visualization : matplotlib, seaborn
 - Machine learning : scikit-learn, keras
 - Scientific computing : scipy, librosa
