@@ -7,3 +7,5 @@ type: local
 ---
 
 # {{ page.name }}
+
+Writing in progress... Stay tuned!
