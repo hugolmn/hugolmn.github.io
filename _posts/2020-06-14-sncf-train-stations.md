@@ -6,6 +6,4 @@ color: primary
 description: test
 ---
 
-## {{ page.name }}
-
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~hugolmn/3.embed"></iframe>
