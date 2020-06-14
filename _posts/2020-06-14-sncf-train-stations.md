@@ -1,5 +1,5 @@
 ---
-title: SNCF OpenData : train stations attendance visualization using plotly
+title: "SNCF OpenData : train stations attendance visualization using plotly"
 tags: [Data Visualisation, Python, plotly]
 style: border
 color: primary
