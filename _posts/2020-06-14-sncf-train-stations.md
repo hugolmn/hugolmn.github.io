@@ -6,4 +6,6 @@ color: primary
 description: Data Visualization using Plotly
 ---
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~hugolmn/3.embed" height="525" width="100%"></iframe>
+<div class="plotly-container">
+	<iframe class="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~hugolmn/3.embed" height="100%" width="100%"></iframe>
+<div>
