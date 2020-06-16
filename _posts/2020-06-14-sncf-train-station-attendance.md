@@ -1,9 +1,9 @@
 ---
-title: "SNCF Open Data&nbsp-&nbsp visualization of train station attendance"
+title: "SNCF Open Data&nbsp-&nbsptrain station attendance"
 tags: [Data Visualisation, Python, plotly]
 style: border
 color: primary
-description: Data Visualization using Plotly
+description: Data visualization using plotly
 ---
 
 <div class="embed-responsive embed-responsive-4by3">
