@@ -65,6 +65,9 @@ defaults:
     values:
       layout: "page"
 
+analytics: G-ZBJ36R5Q6W
+
+
 ### Exclude from processing ###
 exclude:
   - README.md
