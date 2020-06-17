@@ -17,6 +17,23 @@ description: Data visualization using plotly
 - [SNCF : train station attendance](https://ressources.data.sncf.com/explore/dataset/frequentation-gares)
 - [SNCF : train station list](https://ressources.data.sncf.com/explore/dataset/referentiel-gares-voyageurs)
 
+## Libraries
+
+The following libraries are imported:
+
+- [pandas](https://pandas.pydata.org/) and [numpy](https://numpy.org/) for data processing
+- plotly.colors to use a specific colorscale
+- plotly.graph_object for data visualization
+- chart_studio.plotly to export visualization to [Chart Studio](https://chart-studio.plotly.com)
+
+```python
+import pandas as pd						
+import numpy as np						
+import plotly.colors
+import plotly.graph_objects as go
+import chart_studio.plotly as py
+```
+
 ## Processing
 
 #### 1. Reading csv files
