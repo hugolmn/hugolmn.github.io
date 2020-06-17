@@ -123,5 +123,5 @@ fig.update_layout(
 ```
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/hugolmn/dataviz/blob/master/SNCF_traffic.ipynb" text="<i class="fab fa-1x fa-github"></i> Jupyter Notebook" %}
+{% include elements/button.html link="https://github.com/hugolmn/dataviz/blob/master/SNCF_traffic.ipynb" text="Jupyter Notebook" %}
 </p>
