@@ -10,8 +10,6 @@ description: Data visualization using plotly
 	<iframe id="igraph" class="embed-responsive-item" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~hugolmn/3.embed?link=false" height="600" width="100%"></iframe>
 </div>
 
-
-
 ## Data
 
 - [SNCF : train station attendance](https://ressources.data.sncf.com/explore/dataset/frequentation-gares)
