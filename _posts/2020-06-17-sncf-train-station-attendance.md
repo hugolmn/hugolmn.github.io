@@ -1,5 +1,5 @@
 ---
-title: "SNCF Open Data&nbsp-&nbsptrain station attendance"
+title: "SNCF Open Data - train station attendance"
 tags: [Data Visualisation, Python, plotly]
 style: border
 color: primary
