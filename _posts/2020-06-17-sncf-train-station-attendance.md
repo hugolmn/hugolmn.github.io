@@ -7,7 +7,7 @@ description: Data visualization using plotly
 ---
 
 <div class="embed-responsive embed-responsive-4by3">
-	<iframe id="igraph" class="embed-responsive-item" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~hugolmn/3.embed?link=false" height="600" width="100%"></iframe>
+	<iframe id="igraph" class="embed-responsive-item" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~hugolmn/3.embed?link=false&autosize=true" height="600" width="100%"></iframe>
 </div>
 
 ## Data
