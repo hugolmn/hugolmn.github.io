@@ -6,13 +6,9 @@ color: primary
 description: Data visualization using plotly
 ---
 
-```html
 <div class="embed-responsive embed-responsive-4by3">
     <iframe width="100%" height="800" frameborder="0" scrolling="no" src="/assets/graphs/sncf-train-stations.html"></iframe>
 </div>
-```
-
-sncf-train-stations.html
 
 ## Data
 
