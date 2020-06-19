@@ -29,7 +29,6 @@ import pandas as pd
 import numpy as np						
 import plotly.colors
 import plotly.graph_objects as go
-import chart_studio.plotly as py
 ```
 
 ## Processing
@@ -91,7 +90,7 @@ df['category'] = pd.cut(df['Total Voyageurs 2018'], bins=[1e4, 1e5, 1e6, 1e7, np
 
 ## Visualization
 
-[Plotly](https://plotly.com/) is a handy tool when it comes to creating interactive graphs and plots, that you you embed in other websites.
+[Plotly](https://plotly.com/) is a handy tool when it comes to creating interactive graphs and plots, that you can embed in other websites.
 
 #### 1. Scatter Mapbox
 
