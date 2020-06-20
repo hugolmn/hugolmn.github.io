@@ -6,8 +6,8 @@ color: primary
 description: Data visualization using plotly
 ---
 
-<div class="embed-responsive" height="525px" width="100%">
-    <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="/assets/graphs/sncf-train-stations.html"></iframe>
+<div class="embed-responsive embed-responsive-1by1">
+    <iframe width="100%" height="800" frameborder="0" scrolling="no" src="/assets/graphs/sncf-train-stations.html"></iframe>
 </div>
 
 
