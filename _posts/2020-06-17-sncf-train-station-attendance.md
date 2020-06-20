@@ -6,9 +6,8 @@ color: primary
 description: Data visualization using plotly
 ---
 
-<div class="embed-responsive embed-responsive-4by3">
-    <iframe width="100%" height="800" frameborder="0" scrolling="no" src="/assets/graphs/sncf-train-stations.html"></iframe>
-</div>
+<iframe width="100%" height="70vh" frameborder="0" scrolling="no" src="/assets/graphs/sncf-train-stations.html"></iframe>
+
 
 ## Data
 
@@ -22,7 +21,6 @@ The following libraries are imported:
 - [pandas](https://pandas.pydata.org/) and [numpy](https://numpy.org/) for data processing
 - plotly.colors to use a specific colorscale
 - plotly.graph_object for data visualization
-- chart_studio.plotly to export visualization to [Chart Studio](https://chart-studio.plotly.com)
 
 ```python
 import pandas as pd						
@@ -71,13 +69,12 @@ df = df_gares.merge(
     how='inner')
 ```
 
-#### 3. Filtering and adding square root column
+#### 3. Filtering
 
 In order to avoir keeping smallest train stations, I chose to filter out stations with attendance below 1000 passengers in 2018. For visualization purpose, I added a column holding the square root of the number of passengers per station
 
 ```python
 df = df[df['Total Voyageurs 2018'] > 1000]
-df['Total Voyageurs 2018 sqrt'] = np.sqrt(df['Total Voyageurs 2018'])
 ```
 
 #### 4. Adding a category column
@@ -108,7 +105,7 @@ for i, cat in enumerate(df.category.cat.categories):
         text=df_sub['Intitulé gare'],
         marker=dict(
             color=colors[2*i+1],
-            size=df_sub['Total Voyageurs 2018 sqrt'],
+            size=np.sqrt(df_sub['Total Voyageurs 2018 sqrt']),
             sizemin=1,
             sizeref=15,
             sizemode='area',
@@ -131,7 +128,7 @@ fig.update_layout(
     margin={'l': 0, 'r': 0, 't': 50, 'b': 0},
     mapbox=dict(
         center={'lon': 2.39, 'lat': 47.09},
-        zoom=5
+        zoom=4
     ),
 )
 ```
