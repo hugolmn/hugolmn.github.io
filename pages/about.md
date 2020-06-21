@@ -11,7 +11,7 @@ weight: 3
   </p>
 
   <p class="text-center">
-    Hi I am <strong>{{ site.author.name }}</strong> :wave:
+    Hi I am Hugo Le Moine :wave:
   </p>
   <p class="text-center">
    {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> EN Resume' %}
