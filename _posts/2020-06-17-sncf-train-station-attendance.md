@@ -4,6 +4,7 @@ tags: [Data Visualisation, Python, plotly]
 style: border
 color: primary
 description: Data visualization using plotly
+comments: true
 ---
 
 <div class="embed-responsive embed-responsive-1by1">

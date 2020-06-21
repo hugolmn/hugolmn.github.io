@@ -56,6 +56,10 @@ collections:
     output: true
     permalink: /projects/:name
 
+### Disqus ###
+disqus: hugolmn
+### Google analytics ###
+analytics: G-2K9HC7F0D6
 
 ### Defaults for collections ###
 defaults:
@@ -64,8 +68,13 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true                                   # Set to true to enable disqus comments
 
-analytics: G-2K9HC7F0D6
+
 
 
 ### Exclude from processing ###
