@@ -25,6 +25,7 @@ weight: 3
   {% include about/skills.html title="Languages" source=site.data.language-skills %}
 </div>
 
+
 **Other programming languages** : Prolog, LaTeX, Jekyll, Lisp, PHP, Assembly x64
 
 **Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j
@@ -38,11 +39,9 @@ weight: 3
 - Machine learning : scikit-learn, keras
 - Scientific computing : scipy, librosa
 
-```html
 <div class="row">
   {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
 </div>
-```
 
 <div class="row">
   {% include about/timeline.html title="Education" source=site.data.education-timeline %}
