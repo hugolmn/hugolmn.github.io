@@ -17,11 +17,8 @@ weight: 3
    {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> EN Resume' %}
    {% include elements/button.html link="/assets/resume/CV_FR_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> FR Resume' %}
   </p>
+</div>
 
-</div>
-<div class="row">
-  {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
-</div>
 
 <div class="row">
   {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
@@ -37,9 +34,15 @@ weight: 3
 ## Python libraries
 
 - Data analysis & processing : pandas, numpy, dask
-- Data visualization : matplotlib, seaborn
+- Data visualization : matplotlib, seaborn, plotly
 - Machine learning : scikit-learn, keras
 - Scientific computing : scipy, librosa
+
+```html
+<div class="row">
+  {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
+</div>
+```
 
 <div class="row">
   {% include about/timeline.html title="Education" source=site.data.education-timeline %}
