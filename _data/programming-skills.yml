@@ -4,7 +4,7 @@
   color:
 
 - name: SQL
-  percentage: 80
+  percentage: 75
   level : Intermediate
   color:
 
@@ -14,7 +14,7 @@
   color:
 
 - name: HTML/CSS
-  percentage: 70
+  percentage: 75
   level : Intermediate
   color:
 
