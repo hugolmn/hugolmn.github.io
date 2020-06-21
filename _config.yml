@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Hugo Le Moine
-description         : Hi ! I am Hugo Le Moine.
+description         : I'm a Machine Learning Apprentice Engineer at Airbus and soon to graduate from UTC. I share projects and blog posts related to Data Science, Data Visualization, Machine Learning engineering.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : hugolmn/hugolmn.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : hugolmn/portfolYOU
