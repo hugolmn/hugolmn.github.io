@@ -5,12 +5,14 @@ style: border
 color: primary
 description: Data visualization using plotly
 comments: true
+
 ---
 
-<div class="embed-responsive embed-responsive-1by1">
+## Passengers per french train station in 2018
+
+<div class="embed-responsive embed-responsive-3by4">
     <iframe width="100%" height="800" frameborder="0" scrolling="no" src="/assets/graphs/sncf-train-stations.html"></iframe>
 </div>
-
 
 ## Data
 
