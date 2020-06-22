@@ -24,8 +24,8 @@ comments: true
 The following libraries are imported:
 
 - [pandas](https://pandas.pydata.org/) and [numpy](https://numpy.org/) for data processing
-- plotly.colors to use a specific colorscale
-- plotly.graph_object for data visualization
+- [plotly](https://plotly.com/python/).colors to use a specific colorscale
+- [plotly](https://plotly.com/python/).graph_object for data visualization
 
 ```python
 import pandas as pd						
