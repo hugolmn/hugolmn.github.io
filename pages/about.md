@@ -26,6 +26,8 @@ weight: 3
 </div>
 
 
+
+
 **Other programming languages** : Prolog, LaTeX, Jekyll, Lisp, PHP, Assembly x64
 
 **Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j
