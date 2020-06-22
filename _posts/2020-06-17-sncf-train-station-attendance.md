@@ -10,8 +10,8 @@ comments: true
 
 ## Passengers per french train station in 2018
 
-<div class="embed-responsive embed-responsive-1by1">
-    <iframe width="100%" height="800" frameborder="0" scrolling="no" src="/assets/graphs/sncf-train-stations.html"></iframe>
+<div class="plotly-container">
+    <iframe width="100%" height="1024" frameborder="0" scrolling="no" src="/assets/graphs/sncf-train-stations.html"></iframe>
 </div>
 
 ## Data
