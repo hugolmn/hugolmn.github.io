@@ -22,7 +22,6 @@ nav_exclude:                                            # The following paths ar
   - pages/index.md
   - documentation/**
 
-
 ### Author Info ###
 author:
   name              : Hugo Le Moine
