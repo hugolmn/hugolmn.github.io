@@ -77,7 +77,7 @@ defaults:
 
 author-details:
   name: Hugo Le Moine
-  url: https://hugolmn.github.io/
+  #url: https://hugolmn.github.io/
   image: https://avatars0.githubusercontent.com/u/39267118?s=460&u=88a79cceeb098ab94451086064f0bcd737eaba34&v=4
 
 
