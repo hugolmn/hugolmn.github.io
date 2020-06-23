@@ -75,7 +75,8 @@ defaults:
     values:
       comments: true                                   # Set to true to enable disqus comments
 
-
+author-details:
+  name: Hugo Le Moine
 
 
 ### Exclude from processing ###
