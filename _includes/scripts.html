@@ -1,0 +1,39 @@
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- GitHub Buttons -->
+<script src="https://buttons.github.io/buttons.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
+
+<!-- Scroll progress bar -->
+<script type="text/javascript">
+  document.addEventListener(
+    "scroll",
+    function() {
+      var scrollTop = document.documentElement["scrollTop"] || document.body["scrollTop"];
+      var scrollBottom = (document.documentElement["scrollHeight"] ||
+      document.body["scrollHeight"]) - document.documentElement.clientHeight;
+      scrollPercent = scrollTop / scrollBottom * 100 + "%";
+  document
+    .getElementById("_progress")
+    .style.setProperty("--scroll", scrollPercent);
+},
+{ passive: true }
+);
+</script>
