@@ -1,5 +1,5 @@
 ---
-title: "SNCF Open Data: found items (1)"
+title: "SNCF Open Data: found items - 1"
 tags: [Data Visualization, Python, plotly]
 style: border
 color: primary
@@ -8,9 +8,9 @@ comments: true
 
 ---
 
-## Monthly found items in french train stations (since 2015)
+## Monthly found items in french train stations
 
-<iframe height="400" width="100% frameborder="0" scrolling="no" src="//plotly.com/~hugolmn/21.embed?link=false&autosize=true"></iframe>
+<iframe height="400" width="100%" frameborder="0" scrolling="no" src="//plotly.com/~hugolmn/21.embed?link=false&autosize=true"></iframe>
 
 ## 18% of stations represent 80% of found items
 
