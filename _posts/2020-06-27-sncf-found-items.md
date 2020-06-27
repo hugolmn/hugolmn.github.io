@@ -238,4 +238,7 @@ fig.update_layout(
 )
 ```
 
+<p class="text-center">
 {% include elements/button.html link="https://github.com/hugolmn/dataviz/blob/master/SNCF_found_item_1.ipynb" text="Jupyter Notebook" %}
+</p>
+
