@@ -1,6 +1,6 @@
 ---
 title: "SNCF Open Data: train station attendance"
-tags: [Data Visualisation, Python, plotly]
+tags: [Data Visualization, Python, plotly]
 style: border
 color: primary
 description: Data visualization using plotly
@@ -24,7 +24,7 @@ comments: true
 The following libraries are imported:
 
 - [pandas](https://pandas.pydata.org/) and [numpy](https://numpy.org/) for data processing
-- [plotly](https://plotly.com/python/).colors to use a specific colorscale
+- [plotly](https://plotly.com/python/).colors to use a specific color scale
 - [plotly](https://plotly.com/python/).graph_object for data visualization
 
 ```python
@@ -64,7 +64,7 @@ Sample data from df_gares
 
 #### 2. Merging dataframes
 
-The UIC Code is a unique ID for train stations. However, the column names are different in both files, so it's mandaroty so specify the **`left_on`** and **`right_on`** arguments. 
+The UIC Code is a unique ID for train stations. However, the column names are different in both files, so it's mandatory so specify the **`left_on`** and **`right_on`** arguments. 
 
 ```python
 df = df_gares.merge(
@@ -76,7 +76,7 @@ df = df_gares.merge(
 
 #### 3. Filtering
 
-In order to avoir keeping smallest train stations, I chose to filter out stations with attendance below 1000 passengers in 2018. For visualization purpose, I added a column holding the square root of the number of passengers per station
+In order to avoid keeping small train stations, I chose to filter out stations with attendance below 1000 passengers in 2018. For visualization purpose, I added a column holding the square root of the number of passengers per station
 
 ```python
 df = df[df['Total Voyageurs 2018'] > 1000]
@@ -84,7 +84,7 @@ df = df[df['Total Voyageurs 2018'] > 1000]
 
 #### 4. Adding a category column
 
-By using pandas.cut data can be split into categories according to total number of passengers. This will allow to plot with a different color for each category.
+By using `pandas.cut` data can be split into categories according to total number of passengers. This will allow to plot with a different color for each category.
 
 ```python
 df['category'] = pd.cut(df['Total Voyageurs 2018'], bins=[1e4, 1e5, 1e6, 1e7, np.inf])
