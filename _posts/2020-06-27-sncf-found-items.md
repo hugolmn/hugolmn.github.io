@@ -10,6 +10,14 @@ comments: true
 
 ## Monthly found items in french train stations
 
+We can view found items as a proxy for passenger traffic. On this first chart, we can clearly identify a few traffic disruptions:
+
+- April 2018 to June 2018 : discontinuous strike against project to reform SNCF.
+- December 2019 : strike against pension reform.
+- March 2020 to June 2020 : Covid-19 restrictions.
+
+We can also observe a peak in July each year, corresponding to summer vacations for most people.
+
 <iframe height="400" width="100%" frameborder="0" scrolling="no" src="//plotly.com/~hugolmn/21.embed?link=false&autosize=true"></iframe>
 
 ## 18% of stations represent 80% of found items
