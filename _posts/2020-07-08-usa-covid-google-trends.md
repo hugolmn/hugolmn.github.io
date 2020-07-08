@@ -9,7 +9,7 @@ comments: true
 
 ## USA Covid19 Cases vs. Google Trends
 
-Based on user searches, [Google Flu](https://www.google.org/flutrends/about/) tried to estimate flu prevalence among populations. In this simple visualization are compared USA reported covid19 cases against Google Trends popularity for "Coronavirus" and "Worldometer" (which is a website used worldwide to track this pandemic).
+Based on user searches, [Google Flu](https://www.google.org/flutrends/about/) tried to estimate flu prevalence among populations. In this simple visualization I try to use a similar, yet simplified approach. Below are compared USA reported covid19 cases against Google Trends popularity for "Coronavirus" and "Worldometer" (which is a website used worldwide to track this pandemic).
 
 <div class="plotly-container">
     <iframe width="900" height="600" frameborder="0" scrolling="no" src="//plotly.com/~hugolmn/55.embed?link=false&autosize=true&modebar=false"></iframe>
