@@ -5,7 +5,6 @@ style: border
 color: primary
 description: Data visualization using plotly
 comments: true
-
 ---
 
 ## Monthly found items in french train stations
