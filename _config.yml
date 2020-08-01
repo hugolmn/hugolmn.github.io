@@ -69,11 +69,13 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+      sitemap: false
   - scope:
       path: ""
       type: "posts"
     values:
       comments: true                                   # Set to true to enable disqus comments
+      sitemap: false
 
 author-details: true
 
