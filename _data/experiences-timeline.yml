@@ -13,8 +13,8 @@
   tools: [Python, pandas, scikit-learn, keras, librosa, git]
 
 - entity: SNCF
-  link : https://www.airbus.com/
-  location: Toulouse, France
+  link : https://www.sncf.com/fr/groupe/profil-et-chiffres-cles/portrait-entreprise/qui-sommes-nous
+  location: Paris, France
   country: France
   role: Experimental Work
   from: Sep 2018
