@@ -10,7 +10,7 @@
   {%- else -%}
   <title>{{ site.title }}</title>
   {%- endif -%}
-  
+
   {%- if site.author-details -%}
 	{% include rich_result.html %}
   {%- endif -%}
@@ -38,14 +38,14 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" type="text/css">
 
 {%- if site.analytics -%}
-<!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics }}"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    gtag('config', '{{ site.analytics }}');
+  gtag('config', '{{ site.analytics }}');
   </script>
 {%- endif -%}
 </head>
