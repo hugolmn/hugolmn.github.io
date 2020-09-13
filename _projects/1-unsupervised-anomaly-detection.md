@@ -2,7 +2,7 @@
 name: Unsupervised anomaly detection
 tools: [Python, pandas, scikit-learn, librosa]
 image: /assets/images/detection-small.png
-description: Automatic detection of pollution in audio recordings.
+description: Automatic detection of noise pollution in audio recordings using Isolation Forest and DBSCAN.
 type: local
 ---
 
@@ -17,4 +17,3 @@ type: local
 5. Thresholding after applying the median over a rolling window
 
 {% include elements/figure.html image="/assets/images/detection.png" caption="Input spectrogram - Anomaly score - Ouput spectrogram (dark stripes for rejected parts)" %}
-
