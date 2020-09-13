@@ -8,7 +8,7 @@
     {%- assign project_name  = project.name -%}
     {%- assign project_id    = project.name | slugify -%}
     {%- assign project_tools = project.tools -%}
-
+	{%- assign project_desc  = project.description -%}
     {%- if project.image -%}
       {%- assign project_img = project.image -%}
     {%- else -%}
@@ -17,7 +17,7 @@
 
     <!-- Local Projects -->
     {%- if project.type == "local" -%}
-      {%- assign project_desc  = project.description -%}
+      
       {%- if project.external_url -%}
         {%- assign project_url = project.external_url -%}
       {%- else -%}
@@ -31,8 +31,9 @@
           {%- assign project_remote = repo -%}
         {%- endif -%}
       {%- endfor -%}
-
-      {%- assign project_desc = project_remote.description -%}
+	  {%- unless project.description -%}
+		{%- assign project_desc = project_remote.description -%}
+	  {%- endunless -%}
       {%- assign project_url  = project_remote.html_url -%}
 
       <script>get_tools("{{ site.github.owner_name }}/{{ project.remote }}")</script>
