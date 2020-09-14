@@ -68,7 +68,7 @@
     }
   }
 
-  a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline) {
+  a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.social) {
     display: inline-block;
     text-decoration: none;
 
