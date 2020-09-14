@@ -1,10 +1,10 @@
-<div class="col mb-4">
+<!-- <div class="col mb-4"> -->
   <h2 class="mb-3">{{ include.title }}</h2>
   <div class="timeline-body">
 
     {% for item in include.source %}
 
-      <div class="timeline-item">
+      <div class="timeline-item border">
         <div class="content">
           <h4>{{ item.role }}</h4>
             {% if item.link %}
@@ -13,7 +13,7 @@
               <h6><b>{{ item.entity }}</b>
             {% endif %}
             {% if item.location %}
-            • {{ item.location }}
+            &nbsp;•&nbsp;{{ item.location }}
             {% endif %}
             </h6>
           <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
@@ -25,7 +25,7 @@
           {%- if item.courses -%}
             <ul>
               {% for course in item.courses %}
-                {% assign split_course = course | split: " : " %}
+                {% assign split_course = course | split: ": " %}
                 {% if split_course.size == 1 %}
                   <li>{{ split_course[0] }}</li>
                 {% else %}
@@ -46,4 +46,4 @@
 
     {% endfor %}
   </div>
-</div>
+<!-- </div> -->
