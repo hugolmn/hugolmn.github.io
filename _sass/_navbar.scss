@@ -1,6 +1,7 @@
 .navbar{
   background-color: white;
   z-index: 1000;
+  transition: top 0.5s ease;
 }
 
 .link-after {
@@ -37,4 +38,8 @@
   &::after {
     margin-top: -0.25em;
   }
+}
+
+.navbar-hide {
+    top: -59px;
 }
