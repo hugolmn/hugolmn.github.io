@@ -5,8 +5,8 @@
 
   {% for project in site.projects %}
     {%- assign project_type  = project.type -%}
-    {%- assign project_name  = project.name -%}
-    {%- assign project_id    = project.name | slugify -%}
+    {%- assign project_name  = project.title -%}
+    {%- assign project_id    = project.title | slugify -%}
     {%- assign project_tools = project.tools -%}
 	{%- assign project_desc  = project.description -%}
     {%- if project.image -%}
@@ -17,7 +17,7 @@
 
     <!-- Local Projects -->
     {%- if project.type == "local" -%}
-      
+
       {%- if project.external_url -%}
         {%- assign project_url = project.external_url -%}
       {%- else -%}
