@@ -23,8 +23,8 @@
   to: present
   description: Research project in cooperation with UT
   courses:
-    - "Analysed and cleaned motion data from 100 000+ smart thermostats (>600GB of data)""
-    - "Trained models to predict the number of occupants in homes with >70\% accuracy"
+    - "Analysed and cleaned motion data from 100 000+ smart thermostats (>600GB of data)"
+    - "Trained models to predict the number of occupants in homes with >70% accuracy"
   tools: [Python, pandas, dask, seaborn, scikit-learn, keras, git]
 
 - entity: SNCF
