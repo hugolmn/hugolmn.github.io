@@ -7,10 +7,25 @@
   to: present
   description: 3-year apprenticeship in the acoustics department.
   courses:
-    - "Anomaly detection : automatic cleaning of audio recordings in a cost-effective and automated way, using machine learning (DBSCAN, IsolationForest) to detect anomalous noise"
-    - "Data analysis : identification of parameters contributing to specific aircraft noise variability, highlighting of production quality drifts"
-    - "Predictive maintenance : literature review and experimentation using autoencoders to anticipate component failure based on vibrations"
-  tools: [Python, pandas, scikit-learn, keras, librosa, git]
+    - "Designed a pipeline to automatize cleaning of audio recordings using anomaly detection algorithms. Slashed cost by >99% and reduced required time by >90%."
+    - "Identified contributors to specific aircraft noise variability using data analysis and visualizations."
+    - "Determined sources of production quality drifts by performing time series analysis."
+    - "Experimented autoencoder-based predictive maintenance to anticipate component failure based on vibrations."
+    - "Performed multi-objective optimization using an artificial neural network based surrogate model and improved performance at constant noise."
+  tools: [Python, pandas, scikit-learn, keras, librosa, scipy, git]
+
+- entity: University of Waterloo
+  link : https://uwaterloo.ca/
+  location: Waterloo, Canada
+  country: Canada
+  role: Experimental work
+  from: Sep 2018
+  to: present
+  description: Research project in cooperation with UT
+  courses:
+    - "Analysed and cleaned motion data from 100 000+ smart thermostats (>600GB of data)""
+    - "Trained models to predict the number of occupants in homes with >70\% accuracy"
+  tools: [Python, pandas, dask, seaborn, scikit-learn, keras, git]
 
 - entity: SNCF
   link : https://www.sncf.com/fr/groupe/profil-et-chiffres-cles/portrait-entreprise/qui-sommes-nous
@@ -21,5 +36,6 @@
   to: present
   description: 6-month project supervised by SNCF researchers
   courses:
-    - "Dynamic Programming : optimization of the economic performance of a train. Search of the optimal way to operate the train while reducingenergy consumption with a delay constraint."
+    - "Optimized the economic performance of a high-speed train by searching the most efficient design of operation."
+    - "Reduced energy consumption and respected a constraint of delay, using dynamic programming."
   tools: [Python, pandas, git]
