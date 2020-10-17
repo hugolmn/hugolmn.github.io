@@ -12,7 +12,7 @@
     - "Determined sources of production quality drifts by performing time series analysis."
     - "Experimented autoencoder-based predictive maintenance to anticipate component failure based on vibrations."
     - "Performed multi-objective optimization using an artificial neural network based surrogate model and improved performance at constant noise."
-  tools: [Python, pandas, scikit-learn, keras, librosa, scipy, git]
+  tools: [Python, pandas, scikit-learn, keras, XGBoost, librosa, scipy, git]
 
 - entity: University of Waterloo
   link : https://uwaterloo.ca/

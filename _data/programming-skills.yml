@@ -20,7 +20,7 @@
 
 - name: R
   percentage: 50
-  level : Learning
+  level : Basics
   color:
 
 # - name: Kotlin

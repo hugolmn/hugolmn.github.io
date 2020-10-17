@@ -50,18 +50,19 @@ weight: 3
 
 
 
-**Other programming languages** : Prolog, LaTeX, Jekyll, Lisp, PHP, Assembly x64
+**Other programming languages basic knowledge** : Prolog, LaTeX, Lisp, PHP, Assembly x64
 
 **Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j
 
-**DevOps** : Linux, Git, Docker
+**DevOps** : Linux, Git, Docker, Azure, Anaconda
 
 ## Python libraries
 
 - Data analysis & processing : pandas, numpy, dask
 - Data visualization : matplotlib, seaborn, plotly
-- Machine learning : scikit-learn, keras
+- Machine learning : scikit-learn, keras, XGBoost
 - Scientific computing : scipy, librosa
+- Optimization : pymoo
 
 <div class="row">
   {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
