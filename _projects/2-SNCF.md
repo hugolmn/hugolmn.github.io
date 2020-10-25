@@ -21,13 +21,25 @@ In this project, the main benefits of using dynamic programming are the followin
 Therefore, we can think of dynamic programming as smart brute-force method. At each iteration we explore a most-promising node, and cut out the ones that are already breaking a constraint.
 
 For instance, if we were to truly brute-force a 100-step problem with 5 possibilities for each node, we would have to generate an unthinkable number of paths:
+
+<div class="text-center mb-0">
+
 $$
 5^{100} = 7.88*10^{69}
 $$
+
+</div>
+
 However, if the constraints we have set are actually restricting possibilities to an average of 1.1 possibilities for each node, we restrict the research space to:
+
+<div class="text-center mb-0">
+
 $$
 1.1^{100} = 1.38*10^4
 $$
+
+</div>
+
 It was a brief introduction to dynamic programming, but hopefully you will get the intuition behind why it works.
 
 # Optimization of the train operation
