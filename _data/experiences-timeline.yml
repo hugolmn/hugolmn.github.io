@@ -7,9 +7,9 @@
   to: present
   description: 3-year apprenticeship within the acoustics department.
   courses:
-    - "Anomaly detection in flight recordings and automatization of the cleaning: costs and time slashed by >90%."
+    - "Anomaly detection: in flight recordings to detect noise pollution and to automatize the cleaning, reducing costs and time required by >90%."
     - "Data analysis: trend monitoring of production quality and root cause analysis of identified drifts ; identification of contributors to specific aircraft noise variability."
-    - "Clustering of flight trajectories from high-dimensional data, to generate noise maps and ease simulation."
+    - "Clustering: of flight trajectories from high-dimensional data, to generate accurate noise maps based on real-world data and ease simulation."
     - "Optimization of blade design: improved noise level while preserving efficiency, using genetic algorithms and surrogate modeling (deep learning)"
   tools: [Python, pandas, scikit-learn, keras, XGBoost, librosa, scipy, pymoo, git]
 
