@@ -50,7 +50,7 @@ weight: 3
 
 
 
-**Other programming languages basic knowledge** : Prolog, LaTeX, Lisp, PHP, Assembly x64
+**Other basic knowledge** : Prolog, LaTeX, Lisp, PHP, Assembly x64
 
 **Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j
 
@@ -58,7 +58,7 @@ weight: 3
 
 ## Python libraries
 
-- Data analysis & processing : pandas, numpy, dask
+- Data analysis & processing : pandas, pyspark, numpy, dask
 - Data visualization : matplotlib, seaborn, plotly
 - Machine learning : scikit-learn, keras, XGBoost
 - Scientific computing : scipy, librosa

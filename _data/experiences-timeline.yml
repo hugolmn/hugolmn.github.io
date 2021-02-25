@@ -2,29 +2,28 @@
   link : https://www.airbus.com/
   location: Toulouse, France
   country: France
-  role: Machine Learning Apprentice Engineer
+  role: Data Scientist (apprentice)
   from: Sep 2018
   to: present
-  description: 3-year apprenticeship in the acoustics department.
+  description: 3-year apprenticeship within the acoustics department.
   courses:
-    - "Designed a pipeline to automatize cleaning of audio recordings using anomaly detection algorithms. Slashed cost by >99% and reduced required time by >90%."
-    - "Identified contributors to specific aircraft noise variability using data analysis and visualizations."
-    - "Determined sources of production quality drifts by performing time series analysis."
-    - "Experimented autoencoder-based predictive maintenance to anticipate component failure based on vibrations."
-    - "Performed multi-objective optimization using an artificial neural network based surrogate model and improved performance at constant noise."
-  tools: [Python, pandas, scikit-learn, keras, XGBoost, librosa, scipy, git]
+    - "Anomaly detection in flight recordings and automatization of the cleaning: costs and time slashed by >90%."
+    - "Data analysis: trend monitoring of production quality and root cause analysis of identified drifts ; identification of contributors to specific aircraft noise variability."
+    - "Clustering of flight trajectories from high-dimensional data, to generate noise maps and ease simulation."
+    - "Optimization of blade design: improved noise level while preserving efficiency, using genetic algorithms and surrogate modeling (deep learning)"
+  tools: [Python, pandas, scikit-learn, keras, XGBoost, librosa, scipy, pymoo, git]
 
 - entity: University of Waterloo
   link : https://uwaterloo.ca/
   location: Waterloo, Canada
   country: Canada
   role: Experimental work
-  from: Sep 2018
-  to: present
-  description: Research project in cooperation with UT
+  from: Sep 2020
+  to: Jan 2021
+  description: Research project in collaboration with UTC
   courses:
     - "Analysed and cleaned motion data from 100 000+ smart thermostats (>600GB of data)"
-    - "Trained models to predict the number of occupants in homes with >70% accuracy"
+    - "Prediction of the number of occupants in homes to study the impact of the confinement on habits."
   tools: [Python, pandas, dask, seaborn, scikit-learn, keras, git]
 
 - entity: SNCF
@@ -32,7 +31,7 @@
   location: Paris, France
   country: France
   role: Experimental Work
-  from: Sep 2018
+  from: Fev 2020 - Jun 2020
   to: present
   description: 6-month project supervised by SNCF researchers
   courses:

@@ -3,7 +3,7 @@
   level : Native
   color:
 
-- name: English
+- name: English (TOEIC 985/990)
   percentage: 90
   level : C1
   color:
@@ -15,7 +15,7 @@
 
 - name: Chinese
   percentage: 40
-  level : HSK2
+  level : HSK3
   color:
 
 - name: Latvian
