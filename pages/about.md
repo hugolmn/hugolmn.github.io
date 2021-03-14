@@ -17,9 +17,9 @@ weight: 3
   <div class="row d-flex justify-content-center mb-3">
 
     {%- assign unfocused_color = "6c757d" -%}
-
+    
     {% for account in site.author %}
-
+    
       {%- assign service_name = account[0] -%}
       {%- assign service_data = site.data.social-media[service_name] -%}
       {%- if service_data -%}
@@ -31,12 +31,12 @@ weight: 3
           <i class="{{ service_data.icon }} fa-2x align-self-center"></i>
         </a>
       {%- endif -%}
-
+    
     {% endfor %}
 
   </div>
   <p class="text-center">
-   {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> EN Resume' %}
+   {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> EN Resume' %}
    {% include elements/button.html link="/assets/resume/CV_FR_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> FR Resume' %}
   </p>
 </div>
