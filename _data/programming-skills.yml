@@ -4,22 +4,22 @@
   color:
 
 - name: SQL
-  percentage: 75
+  percentage: 70
   level : Intermediate
   color:
 
 - name: C/C++
-  percentage: 75
+  percentage: 70
   level : Intermediate
   color:
 
 - name: HTML/CSS
-  percentage: 75
+  percentage: 70
   level : Intermediate
   color:
 
 - name: R
-  percentage: 50
+  percentage: 40
   level : Basics
   color:
 
