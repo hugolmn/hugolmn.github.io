@@ -1,10 +1,24 @@
+- entity: Pierre Fabre Group
+  link : https://www.airbus.com/
+  location: Lavaur, France
+  country: France
+  role: Data Scientist
+  from: Sep 2021
+  to: present
+  description: full-time data scientist position within the data center of excellence.
+  courses:
+    - "NLP applied to clinical trials: automatic detection of molecules, accelerating domain experts’ screening."
+    - "Organizational effectiveness analysis: graph theory applied to people interactions."
+    - "Key Opinion Leader identification and mapping."
+  tools: [Python, pandas, spacy, plotly/dash XGBoost, git]
+
 - entity: Airbus Commercial Aircraft
   link : https://www.airbus.com/
   location: Toulouse, France
   country: France
   role: Data Scientist (apprentice)
-  from: Sep 2018
-  to: present
+  from: Sep. 2018
+  to: Aug. 2021
   description: 3-year apprenticeship within the acoustics department.
   courses:
     - "Anomaly detection: in flight recordings to detect noise pollution and to automatize the cleaning, reducing costs and time required by >90%."
