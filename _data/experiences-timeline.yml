@@ -1,16 +1,16 @@
 - entity: Pierre Fabre Group
-  link : https://www.airbus.com/
+  link : https://www.pierre-fabre.com
   location: Lavaur, France
   country: France
   role: Data Scientist
   from: Sep 2021
   to: present
-  description: full-time data scientist position within the data center of excellence.
+  description: Full-time data scientist  within the data center of excellence.
   courses:
     - "NLP applied to clinical trials: automatic detection of molecules, accelerating domain experts’ screening."
     - "Organizational effectiveness analysis: graph theory applied to people interactions."
-    - "Key Opinion Leader identification and mapping."
-  tools: [Python, pandas, spacy, plotly/dash XGBoost, git]
+    - "Key Opinion Leader: identification and mapping."
+  tools: [Python, pandas, spacy, plotly/dash, XGBoost, git]
 
 - entity: Airbus Commercial Aircraft
   link : https://www.airbus.com/
