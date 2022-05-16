@@ -11,7 +11,7 @@ weight: 3
   </p>
   <p class="text-center">
     Hi! I'm Hugo Le Moine :wave:<br>
-    I'm a Machine Learning Apprentice Engineer at Airbus and soon to graduate from UTC.
+    I'm a Data Scientist at Pierre Fabre Group.
   </p>
 
   <div class="row d-flex justify-content-center mb-3">
@@ -36,8 +36,7 @@ weight: 3
 
   </div>
   <p class="text-center">
-   {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> EN Resume' %}
-   {% include elements/button.html link="/assets/resume/CV_FR_Hugo_Le_Moine.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> FR Resume' %}
+   {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> Resume' %}
   </p>
 </div>
 
@@ -52,15 +51,14 @@ weight: 3
 
 **Other basic knowledge** : Prolog, LaTeX, Lisp, PHP, Assembly x64
 
-**Database** : MySQL, PostgreSQL, MondoDB, Oracle, neo4j
+**DevOps** : Linux, Git, AWS, Azure/Databricks, Palantir Foundry/Skywise, Kubeflow, Docker
 
-**DevOps** : Linux, Git, Docker, Azure, Anaconda
 
 ## Python libraries
 
 - Data analysis & processing : pandas, pyspark, numpy, dask
-- Data visualization : matplotlib, seaborn, plotly
-- Machine learning : scikit-learn, keras, XGBoost
+- Data visualization : matplotlib, seaborn, plotly/dash
+- Machine learning : scikit-learn, keras/tensorflow, XGBoost
 - Scientific computing : scipy, librosa
 - Optimization : pymoo
 
