@@ -8,7 +8,7 @@ links               :
   - "/projects : Projects"
   - "/blog : Blog"
   - "/about-me : About Me"
-  - "/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf: Resume"
+  - "/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf : Resume"
 
 ### Plugins ###
 plugins:
