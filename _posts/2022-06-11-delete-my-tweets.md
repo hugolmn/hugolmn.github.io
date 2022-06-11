@@ -27,11 +27,11 @@ Leveraging [Twitter API](https://developer.twitter.com/en/docs/api-reference-ind
 
 - Follow / unfollow
 
-###### Applying for a developer account
+##### Applying for a developer account
 
 Using Twitter API requires a [developer account](https://developer.twitter.com/en). The "Essential" level was enough for this tiny project. As I plan to try other functionalities later on, I got the "Elevated" level.
 
-###### Creating an app and getting your keys and tokens
+##### Creating an app and getting your keys and tokens
 
 Before we can dive into the API and play with the endpoints, we need some more configuration: [creating an app](https://developer.twitter.com/en/portal/apps/new). 
 
@@ -73,7 +73,7 @@ with open("delete-my-tweets.yaml", "r") as stream:
         print(exc)
 ```
 
-###### Initialize client
+##### Initialize client
 
 ```python
 import tweepy
@@ -88,7 +88,7 @@ client = tweepy.Client(
 )
 ```
 
-###### Retrieve user's tweets
+##### Retrieve user's tweets
 
 To get the list of tweets from a user, it is required to provide the id associated with the account. To get this information, you can use the method `get_user` and provide your username.
 
@@ -126,7 +126,7 @@ We can now collect the tweets history:
 tweets = collect_tweet_ids()
 ```
 
-###### Delete tweets
+##### Delete tweets
 
 Finally, we can use the tweet ids to delete them using the `delete_tweet` method. 
 
