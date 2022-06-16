@@ -18,6 +18,8 @@
       {% endfor %}
     </p>
     {% endif %}
-    <p class="wow animated fadeIn" data-wow-delay=".7s" style="margin-top:20px">{{ page.chat }}</p>
+    {% if site.author.calendly %}
+    <p class="wow animated fadeIn" data-wow-delay="2.1s" style="margin-top:20px">Let's have a <a href="https://calendly.com/{{ site.author.calendly }}">chat!</a></p>
+    {% endif %}
   </div>
 </div>
