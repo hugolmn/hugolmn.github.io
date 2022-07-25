@@ -9,9 +9,9 @@
       </div>
     </div>
 
-    <p class="wow animated fadeIn" data-wow-delay=".7s" style="margin-top:20px">{{ page.description }}</p>
+    <p class="wow animated fadeIn" data-wow-delay=".33s" style="margin-top:20px">{{ page.description }}</p>
     {% if site.links %}
-    <p class="d-flex flex-column text-muted wow animated fadeIn" data-wow-delay="1.4s" style="margin-top:20px">
+    <p class="d-flex flex-column text-muted wow animated fadeIn" data-wow-delay="0.66" style="margin-top:20px">
       {% for site_link in site.links %}
         {% assign link = site_link | split: " : " %}
         <a class="m-1 btn btn-primary btn-md" href="{{ link[0] }}">{{ link[1] }}</a>
@@ -19,7 +19,7 @@
     </p>
     {% endif %}
     {% if site.author.calendly %}
-    <p class="wow animated fadeIn" data-wow-delay="2.1s" style="margin-top:20px">Let's have a <a href="https://calendly.com/{{ site.author.calendly }}">chat!</a></p>
+    <p class="wow animated fadeIn" data-wow-delay="1s" style="margin-top:20px">Let's have a <a href="https://calendly.com/{{ site.author.calendly }}">chat!</a></p>
     {% endif %}
   </div>
 </div>
