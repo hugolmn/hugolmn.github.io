@@ -11,7 +11,7 @@
 
     <p class="wow animated fadeIn" data-wow-delay=".33s" style="margin-top:20px">{{ page.description }}</p>
     {% if site.links %}
-    <p class="d-flex flex-column text-muted wow animated fadeIn" data-wow-delay="0.66" style="margin-top:20px">
+    <p class="d-flex flex-column text-muted wow animated fadeIn" data-wow-delay="0.66s" style="margin-top:20px">
       {% for site_link in site.links %}
         {% assign link = site_link | split: " : " %}
         <a class="m-1 btn btn-primary btn-md" href="{{ link[0] }}">{{ link[1] }}</a>
