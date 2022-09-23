@@ -7,10 +7,10 @@
   to: present
   description: Full-time data scientist  within the data center of excellence.
   courses:
-    - "NLP applied to clinical trials: automatic detection of molecules, accelerating domain experts’ screening."
-    - "Organizational effectiveness analysis: graph theory applied to people interactions."
-    - "Key Opinion Leader: identification and mapping."
-  tools: [Python, pandas, spacy, plotly/dash, XGBoost, git]
+    - " Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy."
+    - "NLP applied to clinical trials: automation of chemgenomics database crossing, accelerating experts’ screening"
+    - "Organizational effectiveness: graph theory applied to interactions, to monitor the company’s transformation."
+  tools: [Python, pandas, spacy, XGBoost, dash, API, pytest, Kubeflow, Snowflake, git]
 
 - entity: Airbus Commercial Aircraft
   link : https://www.airbus.com/
