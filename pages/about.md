@@ -39,7 +39,7 @@ weight: 3
    {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> Resume' %}
    {% include elements/button.html link="#my-tech-stack" text='My Tech Stack' %}
    {% include elements/button.html link="#languages-i-speak" text='Languages I speak' %}
-   {% include elements/button.html link="#experiences" text='Experiences' %}
+   {% include elements/button.html link="#work-experience" text='Work Experience' %}
    {% include elements/button.html link="#education" text='Education' %}
   </p>
 </div>
@@ -156,7 +156,7 @@ weight: 3
 ## Languages I speak
 {% include about/skills.html source=site.data.language-skills %}
 
-## Experience
+## Work Experience
 <div class="row">
   {% include about/timeline.html source=site.data.experiences-timeline %}
 </div>
