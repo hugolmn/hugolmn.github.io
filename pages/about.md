@@ -44,12 +44,6 @@ weight: 3
   </p>
 </div>
 
-
-<div class="row">
-  {% include about/skills.html title="Programming" source=site.data.programming-skills %}
-  {% include about/skills.html title="Languages" source=site.data.language-skills %}
-</div>
-
 ## My Tech Stack
 ##### Programming languages
 ---
@@ -160,7 +154,7 @@ weight: 3
 <a href="https://pypi.org/">PyPI</a>
 
 ## Languages I speak
-
+{% include about/skills.html title="Languages" source=site.data.language-skills %}
 
 <div class="row">
   {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
