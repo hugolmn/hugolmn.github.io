@@ -37,6 +37,10 @@ weight: 3
   </div>
   <p class="text-center">
    {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> Resume' %}
+   {% include elements/button.html link="#my-tech-stack" text='My Tech Stack' %}
+   {% include elements/button.html link="#languages-i-speak" text='Languages I speak' %}
+   {% include elements/button.html link="#experiences" text='Experiences' %}
+   {% include elements/button.html link="#education" text='Education' %}
   </p>
 </div>
 
@@ -46,13 +50,14 @@ weight: 3
   {% include about/skills.html title="Languages" source=site.data.language-skills %}
 </div>
 
-## My tech stack
+## My Tech Stack
 ##### Programming languages
 ---
-<a href="https://www.python.org/">Python</a>&nbsp;
+{% include about/skills.html title="Programming" source=site.data.programming-skills %}
+<!-- <a href="https://www.python.org/">Python</a>&nbsp;
 <a href="https://www.r-project.org/">R</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a> -->
 
 ##### Data science
 ---
@@ -153,6 +158,9 @@ weight: 3
 **Package and env management:**&nbsp;
 <a href="https://www.anaconda.com">Anaconda</a>&nbsp;
 <a href="https://pypi.org/">PyPI</a>
+
+## Languages I speak
+
 
 <div class="row">
   {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
