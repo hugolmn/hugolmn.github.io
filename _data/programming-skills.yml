@@ -8,27 +8,17 @@
   level : Intermediate
   color:
 
-- name: C/C++
+- name: HTML/CSS
   percentage: 70
   level : Intermediate
   color:
 
-- name: HTML/CSS
-  percentage: 70
-  level : Intermediate
+- name: C/C++
+  percentage: 50
+  level : Basics
   color:
 
 - name: R
   percentage: 40
   level : Basics
   color:
-
-# - name: Kotlin
-#   percentage: 45
-#   level : Learning
-#   color:
-#
-# - name: Julia
-#   percentage: 45
-#   level : Learning
-#   color:
