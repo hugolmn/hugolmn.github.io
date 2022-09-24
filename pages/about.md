@@ -65,13 +65,16 @@ weight: 3
 
 **Dataviz:**&nbsp;
 <a href="https://www.tableau.com">Tableau</a>&nbsp;
-<a href="https://plotly.com/">Dash</a>
+<a href="https://matplotlib.org/">Matplotlib</a>&nbsp;
+<a href="https://plotly.com/">Plotly</a>&nbsp;
+<a href="https://altair-viz.github.io/">Vega-Altair</a>
 
 
 **Machine Learning:**&nbsp;
 <a href="https://scikit-learn.org/stable/">scikit-learn</a>&nbsp;
 <a href="https://keras.io/">Keras</a>&nbsp;
 <a href="https://www.tensorflow.org">TensorFlow</a>&nbsp;
+<a href="https://xgboost.readthedocs.io">XGBoost</a>&nbsp;
 <a href="https://spacy.io/">spaCy</a>
 
 ### Databases
@@ -100,7 +103,7 @@ weight: 3
 <a href="https://getbootstrap.com/">Bootstrap</a>
 
 ### IaaS & PaaS
-
+---
 <a href="https://azure.microsoft.com">Azure</a>: AKS, VMs, Functions, Pipelines, DevOps, Databricks, Database for PostgreSQL.
 
 <a href="https://cloud.google.com">GCP</a>: Cloud Functions, Scheduler, Pub/Sub, Secret Manager, Drive API.
