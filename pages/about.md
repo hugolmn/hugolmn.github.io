@@ -154,12 +154,14 @@ weight: 3
 <a href="https://pypi.org/">PyPI</a>
 
 ## Languages I speak
-{% include about/skills.html title="Languages" source=site.data.language-skills %}
+{% include about/skills.html title="" source=site.data.language-skills %}
 
+## Experience
 <div class="row">
-  {% include about/timeline.html title="Experiences" source=site.data.experiences-timeline %}
+  {% include about/timeline.html title="" source=site.data.experiences-timeline %}
 </div>
 
+## Education
 <div class="row">
-  {% include about/timeline.html title="Education" source=site.data.education-timeline %}
+  {% include about/timeline.html title="" source=site.data.education-timeline %}
 </div>
