@@ -1,5 +1,7 @@
 <!-- <div class="col mb-4"> -->
+  {% if include.title %}
   <h2 class="mb-3">{{ include.title }}</h2>
+  {% endif %}
   <div class="timeline-body">
 
     {% for item in include.source %}
