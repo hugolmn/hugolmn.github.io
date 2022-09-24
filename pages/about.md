@@ -53,7 +53,7 @@ weight: 3
 ## My Tech Stack
 ##### Programming languages
 ---
-{% include about/skills.html title="Programming" source=site.data.programming-skills %}
+{% include about/skills.html title="" source=site.data.programming-skills %}
 <!-- <a href="https://www.python.org/">Python</a>&nbsp;
 <a href="https://www.r-project.org/">R</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>&nbsp;
