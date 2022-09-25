@@ -5,9 +5,9 @@
   role: Data Scientist
   from: Sep 2021
   to: present
-  description: Full-time data scientist  within the data center of excellence.
+  description: Full-time data scientist within the CoE Data.
   courses:
-    - " Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy."
+    - "Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy."
     - "NLP applied to clinical trials: automation of chemgenomics database crossing, accelerating experts’ screening"
     - "Organizational effectiveness: graph theory applied to interactions, to monitor the company’s transformation."
   tools: [Python, pandas, spacy, XGBoost, dash, API, pytest, Kubeflow, Snowflake, git]
@@ -16,7 +16,7 @@
   link : https://www.airbus.com/
   location: Toulouse, France
   country: France
-  role: Data Scientist (apprentice)
+  role: Data Scientist
   from: Sep. 2018
   to: Aug. 2021
   description: 3-year apprenticeship within the acoustics department.
