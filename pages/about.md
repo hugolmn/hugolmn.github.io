@@ -48,10 +48,6 @@ weight: 3
 ##### Programming languages
 ---
 {% include about/skills.html source=site.data.programming-skills %}
-<!-- <a href="https://www.python.org/">Python</a>&nbsp;
-<a href="https://www.r-project.org/">R</a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a> -->
 
 ##### Data science
 ---
@@ -142,7 +138,6 @@ weight: 3
 <a href="https://gitlab.com">GitLab</a>
 
 **CI/CD:**&nbsp;
-<a href="https://github.com/features/actions">GitHub Actions</a>&nbsp;
 <a href="https://docs.gitlab.com/ee/ci/">GitLab CI/CD</a>&nbsp;
 <a href="https://azure.microsoft.com/products/devops/pipelines/">Azure Pipelines</a>
 
