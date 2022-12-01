@@ -3,12 +3,12 @@
   location: Lavaur, France
   country: France
   role: Data Scientist
-  from: Sep 2021
-  to: present
+  from: Sep. 2021
+  to: Nov. 2022
   description: Full-time data scientist within the CoE Data.
   courses:
-    - "Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy."
-    - "NLP applied to clinical trials: automation of chemgenomics database crossing, accelerating experts’ screening"
+    - "Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy. Onboarded >100 users."
+    - "Applied NLP to clinical trials, automated chem-genomics database crossing: screening time cut by >1000 hrs."
     - "Organizational effectiveness: graph theory applied to interactions, to monitor the company’s transformation."
   tools: [Python, pandas, spacy, XGBoost, dash, API, pytest, Kubeflow, Snowflake, git]
 
@@ -32,11 +32,11 @@
   location: Waterloo, Canada
   country: Canada
   role: Experimental work
-  from: Sep 2020
-  to: Jan 2021
+  from: Sep. 2020
+  to: Jan. 2021
   description: Research project in collaboration with UTC
   courses:
-    - "Analysed and cleaned motion data from 100 000+ smart thermostats (>600GB of data)"
+    - "Analysed and cleaned motion data from 100 000+ smart thermostats (>600GB of data)."
     - "Prediction of the number of occupants in homes to study the impact of the confinement on habits."
   tools: [Python, pandas, dask, seaborn, scikit-learn, keras, git]
 
@@ -45,8 +45,8 @@
   location: Paris, France
   country: France
   role: Experimental Work
-  from: Fev 2020 - Jun 2020
-  to: present
+  from: Fev. 2020 
+  to: Jun. 2020
   description: 6-month project supervised by SNCF researchers
   courses:
     - "Optimized the economic performance of a high-speed train by searching the most efficient design of operation."
