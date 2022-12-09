@@ -11,7 +11,7 @@ weight: 3
   </p>
   <p class="text-center">
     Hi! I'm Hugo Le Moine :wave:<br>
-    I'm a Data Scientist at Pierre Fabre Group.
+    I'm a Data Scientist and also coding side-projects using Python.
   </p>
 
   <div class="row d-flex justify-content-center mb-3">
