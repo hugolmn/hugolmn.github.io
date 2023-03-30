@@ -7,8 +7,10 @@ weight: 3
 
 ## My Tech Stack
 ##### Programming languages
+
 ---
 {% include about/skills.html source=site.data.programming-skills %}
+
 
 ##### Data science
 ---
@@ -33,6 +35,7 @@ weight: 3
 <a href="https://xgboost.readthedocs.io">XGBoost</a>&nbsp;
 <a href="https://spacy.io/">spaCy</a>
 
+
 ##### Databases
 ---
 **SQL:**&nbsp;
@@ -46,6 +49,7 @@ weight: 3
 <a href="https://www.mongodb.com">MongoDB</a>&nbsp;
 <a href="https://neo4j.com">Neo4j</a>
 
+
 ##### Web apps
 ---
 **Frameworks:**&nbsp;
@@ -57,6 +61,7 @@ weight: 3
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML">HTML</a>&nbsp;
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS">CSS</a>&nbsp;
 <a href="https://getbootstrap.com/">Bootstrap</a>
+
 
 ##### IaaS & PaaS
 ---
@@ -87,9 +92,13 @@ weight: 3
 <a href="https://www.palantir.com/docs/foundry/code-repositories">Code Repositories</a>&nbsp;
 <a href="https://www.palantir.com/docs/foundry/slate/">Slate</a>&nbsp;
 
+**Dataiku:**&nbsp;
+<a href="https://www.dataiku.com/product/">DSS</a>&nbsp;
+
 **Heroku:**&nbsp;
 <a href="https://www.heroku.com/dynos">Dynos</a>&nbsp;
 <a href="https://www.heroku.com/postgres">Postgre</a>&nbsp;
+
 
 ##### DevOps
 ---
@@ -114,6 +123,7 @@ weight: 3
 **Monitoring:**&nbsp;
 <a href="https://www.elastic.co/kibana/">Kibana</a>&nbsp;
 <a href="https://www.portainer.io/">Portainer</a>
+
 
 ##### Development environments
 ---
