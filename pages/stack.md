@@ -6,12 +6,13 @@ weight: 3
 ---
 
 ## My Tech Stack
+&nbsp;
 ##### Programming languages
 
 ---
 {% include about/skills.html source=site.data.programming-skills %}
 
-
+&nbsp;
 ##### Data science
 ---
 **Data processing:**&nbsp;
@@ -35,7 +36,7 @@ weight: 3
 <a href="https://xgboost.readthedocs.io">XGBoost</a>&nbsp;
 <a href="https://spacy.io/">spaCy</a>
 
-
+&nbsp;
 ##### Databases
 ---
 **SQL:**&nbsp;
@@ -49,7 +50,7 @@ weight: 3
 <a href="https://www.mongodb.com">MongoDB</a>&nbsp;
 <a href="https://neo4j.com">Neo4j</a>
 
-
+&nbsp;
 ##### Web apps
 ---
 **Frameworks:**&nbsp;
@@ -62,7 +63,7 @@ weight: 3
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS">CSS</a>&nbsp;
 <a href="https://getbootstrap.com/">Bootstrap</a>
 
-
+&nbsp;
 ##### IaaS & PaaS
 ---
 **Azure:**&nbsp;
@@ -99,7 +100,7 @@ weight: 3
 <a href="https://www.heroku.com/dynos">Dynos</a>&nbsp;
 <a href="https://www.heroku.com/postgres">Postgre</a>&nbsp;
 
-
+&nbsp;
 ##### DevOps
 ---
 **VCS/SCM:**&nbsp;
@@ -124,7 +125,7 @@ weight: 3
 <a href="https://www.elastic.co/kibana/">Kibana</a>&nbsp;
 <a href="https://www.portainer.io/">Portainer</a>
 
-
+&nbsp;
 ##### Development environments
 ---
 **Operating Systems:**&nbsp;
