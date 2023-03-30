@@ -35,18 +35,18 @@ weight: 4
     {% endfor %}
 
   </div>
-  <!-- <p class="text-center">
+  <p class="text-center">
    {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> Resume' %}
-   {% include elements/button.html link="#my-tech-stack" text='My Tech Stack' %}
+   {% include elements/button.html link="/tech-stack" text='My Tech Stack' %}
    {% include elements/button.html link="#languages-i-speak" text='Languages I speak' %}
    {% include elements/button.html link="#work-experience" text='Work Experience' %}
    {% include elements/button.html link="#education" text='Education' %}
-  </p> -->
+  </p>
 </div>
 
 
 ## Languages I speak
-&nbsp;
+---
 {% include about/skills.html source=site.data.language-skills %}
 &nbsp;
 ## Work Experience
@@ -56,6 +56,7 @@ weight: 4
 </div>
 
 ## Education
+---
 <div class="row">
   {% include about/timeline.html source=site.data.education-timeline %}
 </div>
