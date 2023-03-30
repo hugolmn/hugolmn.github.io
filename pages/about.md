@@ -46,9 +46,11 @@ weight: 4
 
 
 ## Languages I speak
+&nbsp;
 {% include about/skills.html source=site.data.language-skills %}
-
+&nbsp;
 ## Work Experience
+&nbsp;
 <div class="row">
   {% include about/timeline.html source=site.data.experiences-timeline %}
 </div>
