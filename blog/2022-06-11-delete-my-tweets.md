@@ -1,10 +1,10 @@
 ---
 title: "Twitter API - Delete my tweets!"
 tags: [Python, API, Twitter]
+authors: hugo
 style: border
 color: primary
 description: I reset my account using twitter API, to delete all my existing tweets.
-comments: true
 ---
 
 # Why?

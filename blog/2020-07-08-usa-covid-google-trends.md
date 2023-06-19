@@ -1,10 +1,10 @@
 ---
 title: "Covid19 and Google Trends"
 tags: [Data Visualization, Python, plotly]
+authors: hugo
 style: border
 color: primary
 description: Trend anaysis between covid19 cases and Google searches
-comments: true
 ---
 
 ## USA Covid19 Cases vs. Google Trends

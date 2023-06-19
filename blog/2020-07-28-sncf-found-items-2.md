@@ -1,10 +1,10 @@
 ---
 title: "SNCF Open Data: found items - 2"
 tags: [Data Visualization, Python, plotly]
+authors: hugo
 style: border
 color: primary
 description: Data visualization using plotly
-comments: true
 ---
 
 ## Map of found items
