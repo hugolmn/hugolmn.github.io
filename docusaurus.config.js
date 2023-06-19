@@ -14,12 +14,12 @@ const config = {
   url: 'https://hugolmn.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-test',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'hugolmn', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-test', // Usually your repo name.
+  projectName: 'hugolmn.github.io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -68,7 +68,7 @@ const config = {
         title: 'Hugo Le Moine',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.ico',
         },
         items: [
           {
