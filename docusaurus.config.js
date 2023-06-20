@@ -39,6 +39,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'wiki',
+          routeBasePath: 'wiki',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -63,19 +65,22 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        hideOnScroll: true,
         title: 'Hugo Le Moine',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Site Logo',
           src: 'img/favicon.ico',
+          width: 32,
+          height: 32
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'gardenSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Digital Garden',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
