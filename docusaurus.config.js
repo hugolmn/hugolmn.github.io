@@ -89,6 +89,7 @@ const config = {
           height: 32
         },
         items: [
+          {to: '/projects', label: 'Projects', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'gardenSidebar',
