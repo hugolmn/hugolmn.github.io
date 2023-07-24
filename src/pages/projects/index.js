@@ -2,7 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import styles from './styles.module.css';
-import ProjectList from '../../../data/projects'
+import ProjectList from '../../../data/projects';
 import ProjectCard from '../../components/ProjectCard';
 
 export default function Projects() {
