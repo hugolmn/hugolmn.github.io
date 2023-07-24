@@ -4,14 +4,19 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import ContactButtons from '../components/ContactButtons';
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
+        <img
+          class="avatar__photo avatar__photo--xxl margin-bottom--lg"
+          style={{margin: "0 auto" }}
+          src="https://github.com/hugolmn.png" />
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         {/* <div className={styles.buttons}>
@@ -31,10 +36,9 @@ export default function Home() {
   return (
     <Layout
       // title={`Hello from ${siteConfig.title}`}
-      description="I'm a Senior Data Scientist at MSD and UTC alumni. Also working on side-projects related to Python, Data Science and Machine Learning.">
-      <HomepageHeader />
+      description={siteConfig.description}>
       <main>
-        {/* <HomepageFeatures /> */}
+        <HomepageHeader />
       </main>
     </Layout>
   );
