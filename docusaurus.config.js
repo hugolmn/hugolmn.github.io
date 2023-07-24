@@ -102,18 +102,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/hugolmn',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            href: 'https://www.linkedin.com/in/hugo-le-moine/',
-            label: 'Linkedin',
-            position: 'right',
-          },
-          {
-            href: 'https://instagram.com/hugo_le_moine/',
-            label: 'Instagram',
+            to: 'pathname:///resume/CV_EN_Hugo_Le_Moine.pdf',
+            label: 'Resume',
             position: 'right',
           },
         ],
