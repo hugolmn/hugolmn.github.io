@@ -9,7 +9,7 @@ description: I reset my account using twitter API, to delete all my existing twe
 
 # Why?
 
-I opened my twitter account [@hugo_le_moine_](https://twitter.com/hugo_le_moine_) back in 2012 during my high school years, and have mostly used it to retweet/like content, using it like a bookmarking tool. Over time, I accumulated a couple hundreds tweets and I certainly don't remember >95% of them. 
+I opened my twitter account [@hugo\_le\_moine\_](https://twitter.com/hugo_le_moine_) back in 2012 during my high school years, and have mostly used it to retweet/like content, using it like a bookmarking tool. Over time, I accumulated a couple hundreds tweets and I certainly don't remember >95% of them. 
 
 It's now time for a deep cleaning!
 
