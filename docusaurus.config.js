@@ -41,24 +41,17 @@ const config = {
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      '@docusaurus/preset-classic',
       {
         docs: {
           path: 'wiki',
           routeBasePath: 'wiki',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/hugolmn/hugolmn.github.io/tree/main/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/hugolmn/hugolmn.github.io/tree/main/',
         },
         pages: {
           remarkPlugins: [math],
@@ -85,7 +78,6 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
