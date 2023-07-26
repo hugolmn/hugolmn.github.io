@@ -26,11 +26,11 @@ const ProjectList = [
         // source: "https://github.com/hugolmn/quantified-self",
     },
     {
-        title: "Optimization of the economic performance of a train",
+        title: "TGV economic performance optimization",
         description: "Search of the optimal way to operate the train using dynamic programming.",
         tags: ["Python", "pandas", "matplotlib"],
         preview: require('/static/img/projects/tgv.jpg'),
-        // website: "https://twitter.com/DividendChart",
+        website: "/projects/tgv-economic-performance-optimization",
         // source: "https://github.com/hugolmn/quantified-self",
     },
     {
