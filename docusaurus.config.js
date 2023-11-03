@@ -110,7 +110,7 @@ const config = {
           {
             type: 'html',
             // to: 'pathname:///resume/CV_EN_Hugo_Le_Moine.pdf',
-            value: '<a href="resume/CV_EN_Hugo_Le_Moine.pdf" target="_blank"><button class="button button--outline button--primary">Resume</button></a>',
+            value: '<a href="/resume/CV_EN_Hugo_Le_Moine.pdf" target="_blank"><button class="button button--outline button--primary">Resume</button></a>',
             position: 'right',
             // className: 'button button--primary'
           },
