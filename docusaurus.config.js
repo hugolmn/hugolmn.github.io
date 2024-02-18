@@ -44,8 +44,8 @@ const config = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          path: 'wiki',
-          routeBasePath: 'wiki',
+          path: 'digital-garden',
+          routeBasePath: 'digital-garden',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/hugolmn/hugolmn.github.io/tree/main/',
         },
