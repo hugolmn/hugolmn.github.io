@@ -8,4 +8,4 @@
     - Multi-objective optimization of engine design for [ZEROe](https://www.airbus.com/en/innovation/low-carbon-aviation/hydrogen/zeroe), a hydrogen propulsion aircraft, using deep learning and genetic algorithms.
     - Automation of flight data cleaning using anomaly detection methods.
 - **SNCF**:
-    - Optimized the economie performance of high-speed trains using dynamic programming.
+    - Demonstrated potential economic performance optimizations of high-speed trains using dynamic programming.
