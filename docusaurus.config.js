@@ -138,17 +138,10 @@ const config = {
               {
                 label: 'Email',
                 href: 'mailto:hugo.le-moine@outlook.fr',
-              },{
-                label: 'GitHub',
-                href: 'https://github.com/hugolmn',
               },
               {
                 label: 'Instagram',
                 href: 'https://instagram.com/hugo_le_moine/',
-              },
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/users/13765085/hugolmn',
               },
               {
                 label: 'Twitter',
