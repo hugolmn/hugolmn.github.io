@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_test=self.webpackChunkdocusaurus_test||[]).push([[6361],{9289:e=>{e.exports=JSON.parse('{"title":"Coding","description":"This part of my website is still under construction","slug":"/category/coding","permalink":"/wiki/category/coding","navigation":{"next":{"title":"Sample file","permalink":"/wiki/Coding/sample"}}}')}}]);
