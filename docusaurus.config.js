@@ -133,7 +133,7 @@ const config = {
             ],
           },
           {
-            title: 'Links',
+            title: 'Connect',
             items: [
               {
                 label: 'Email',
