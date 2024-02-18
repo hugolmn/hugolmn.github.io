@@ -11,11 +11,29 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
+.homeSection{
+  flex-direction:column;
+  margin:0 auto;
+  max-width:900px;
+  /* padding:0px 20px; */
+  margin:30px;
+  display:flex;
+  align-items:left;
+}
+
+
+.homeMain{
+  flex-direction:column;
+  display:flex;
+  align-items:center;
+}
+
+
+/* @media screen and (max-width: 996px) {
+  .homeSection {
     padding: 2rem;
   }
-}
+} */
 
 .buttons {
   display: flex;

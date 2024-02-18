@@ -1,0 +1,11 @@
+## Experiences
+- **MSD France**: 
+    - Optimizing the routing of sales forces, by reducing average point-to-point distance.
+- **Pierre Fabre**: 
+    - KOL Mapping & Social Listening by automating scrapping of clinical trial registries, publications, congress websites, social media.
+    - Monitoring of organizational effectiveness using data visualization and graph theory on employees interactions.
+- **Airbus**: 
+    - Multi-objective optimization of engine design for [ZEROe](https://www.airbus.com/en/innovation/low-carbon-aviation/hydrogen/zeroe), a hydrogen propulsion aircraft, using deep learning and genetic algorithms.
+    - Automation of flight data cleaning using anomaly detection methods.
+- **SNCF**:
+    - Optimized the economie performance of high-speed trains using dynamic programming.

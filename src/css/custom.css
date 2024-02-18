@@ -9,6 +9,17 @@
   --ifm-avatar-photo-size: 10rem
 }
 
+@media screen and (min-width: 997px) and (max-width: 1200px){
+  [class*="docItemCol"] {
+    max-width: none !important;
+  }
+}
+
+:root {
+  --ifm-button-border-width: 1px
+}
+
+
 /* :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
