@@ -1,8 +1,8 @@
 ## About me
 
-I conceive, develop and put into production applications that solve business challenges, using Python, Machine Learning techniques and applying DevOps best practices.
+Hi! I'm Hugo. I conceive, develop and put into production applications that solve business challenges, using Python, Machine Learning techniques and applying DevOps best practices.
 
-I am  a cloud native developer with first-hand experience building upon technologies like Google Cloud Platform, Dataiku, Palantir Foundry, Snowflake and Streamlit.
+As a cloud-native developer, I have first-hand experience building upon technologies such as Google Cloud Platform, Dataiku, Palantir Foundry, Snowflake and Streamlit.
 
 I enjoy pursuing side projects such as [Quantified Self](https://quantified-self.streamlitapp.com/) or the [Dividend Chart](https://twitter.com/DividendChart) Twitter bot, and recently started writing in my [Digital Garden](/digital-garden/intro) for anyone to read and hopefully find some value in it.
 
