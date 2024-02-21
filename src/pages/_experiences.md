@@ -2,7 +2,7 @@
 - **MSD France**: 
     - Optimizing the routing of sales forces, by reducing average point-to-point distance.
 - **Pierre Fabre**: 
-    - KOL Mapping & Social Listening by automating scrapping of clinical trial registries, publications, congress websites, social media.
+    - KOL Mapping & Social Listening by automating scrapping of various web sources.
     - Monitoring of organizational effectiveness using data visualization and graph theory on employees interactions.
 - **Airbus**: 
     - Multi-objective optimization of engine design for [ZEROe](https://www.airbus.com/en/innovation/low-carbon-aviation/hydrogen/zeroe), a hydrogen propulsion aircraft, using deep learning and genetic algorithms.
