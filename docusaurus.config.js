@@ -61,7 +61,7 @@ const config = {
           customCss: require.resolve('./src/css/custom.css'),
         },
         gtag: {
-          trackingID: 'G-8NL48WGD4R ',
+          trackingID: 'G-8NL48WGD4R',
           anonymizeIP: true,
         },
       },
