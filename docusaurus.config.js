@@ -140,6 +140,10 @@ const config = {
                 href: 'mailto:hugo.le-moine@outlook.fr',
               },
               {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/in/hugo-le-moine/',
+              },
+              {
                 label: 'Instagram',
                 href: 'https://instagram.com/hugo_le_moine/',
               },
