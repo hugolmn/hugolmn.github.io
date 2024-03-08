@@ -9,7 +9,7 @@ description: Data visualization using plotly
 
 ## Map of found items
 
-Following a previous [article](https://hugolmn.github.io/2020/06/27/sncf-found-items.html) analyzing monthly evolution as well as concentration of found items, here is another perspective on these data made available by the SNCF. Obviously, the higher the number of passengers, the higher the number of found items. Now, let's look into the details!
+Following a previous [article](./2020-06-27-sncf-found-items.md) analyzing monthly evolution as well as concentration of found items, here is another perspective on these data made available by the SNCF. Obviously, the higher the number of passengers, the higher the number of found items. Now, let's look into the details!
 
 On this map are represented the number of found items per 100k passengers between 2015 and 2018. Only stations with more than 10 found items are shown.
 
