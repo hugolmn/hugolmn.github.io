@@ -80,11 +80,47 @@ const config = {
     ],
     'docusaurus-plugin-sass'
   ],
-
   themeConfig:
     ({
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'LZKGFS0KVN',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '624b2d9ce8b13f3d7e1a49f81736ef58',
+  
+        indexName: 'hugolmnio',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+  
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        // externalUrlRegex: 'external\\.com|domain\\.com',
+  
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        // replaceSearchResultPathname: {
+        //   from: '/docs/', // or as RegExp: /\/docs\//
+        //   to: '/',
+        // },
+  
+        // Optional: Algolia search parameters
+        // searchParameters: {},
+  
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        // searchPagePath: 'search',
+  
+        //... other Algolia params
+      },
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
+      // announcementBar: {
+      //   id: 'support_us',
+      //   content:
+      //     'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+      //   backgroundColor: '#fafbfc',
+      //   textColor: '#091E42',
+      //   isCloseable: false,
+      // },
       navbar: {
         hideOnScroll: true,
         title: 'Hugo Le Moine',
