@@ -11,7 +11,7 @@ const ProjectList = [
     },
     {
         title: "Dividend Chart",
-        description: "Twitter bot that generates data vizualisations for dividend stocks.",
+        description: "Twitter bot with 1300+ followers, generating data vizualisations for dividend stocks.",
         tags: ["Python", "GCP", "Twitter", "Altair"],
         preview: require('/static/img/projects/dividend-chart.png'),
         website: "https://twitter.com/DividendChart",
